@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\Exam\bin\Debug\Exam.exe.config
+D:\SoftUni\Algorythms\Exam\bin\Debug\Exam.exe
+D:\SoftUni\Algorythms\Exam\bin\Debug\Exam.pdb
+D:\SoftUni\Algorythms\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\Exam\obj\Debug\Exam.exe
+D:\SoftUni\Algorythms\Exam\obj\Debug\Exam.pdb

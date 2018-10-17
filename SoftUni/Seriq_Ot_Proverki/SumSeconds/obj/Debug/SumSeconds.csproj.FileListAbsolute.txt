@@ -1,0 +1,6 @@
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\bin\Debug\SumSeconds.exe
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\obj\Debug\SumSeconds.exe
+D:\SoftUni\Seriq_Ot_Proverki\SumSeconds\obj\Debug\SumSeconds.pdb

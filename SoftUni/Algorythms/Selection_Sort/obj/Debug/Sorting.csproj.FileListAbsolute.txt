@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+D:\SoftUni\Algorythms\Selection_Sort\bin\Debug\Selection_Sort.exe
+D:\SoftUni\Algorythms\Selection_Sort\bin\Debug\Selection_Sort.pdb
+D:\SoftUni\Algorythms\Selection_Sort\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\Selection_Sort\obj\Debug\Selection_Sort.exe
+D:\SoftUni\Algorythms\Selection_Sort\obj\Debug\Selection_Sort.pdb

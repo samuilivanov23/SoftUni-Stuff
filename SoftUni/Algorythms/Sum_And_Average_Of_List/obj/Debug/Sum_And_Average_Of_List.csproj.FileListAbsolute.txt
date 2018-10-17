@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\bin\Debug\Sum_And_Average_Of_List.exe.config
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\bin\Debug\Sum_And_Average_Of_List.exe
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\bin\Debug\Sum_And_Average_Of_List.pdb
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\obj\Debug\Sum_And_Average_Of_List.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\obj\Debug\Sum_And_Average_Of_List.exe
+D:\SoftUni\Algorythms\Sum_And_Average_Of_List\obj\Debug\Sum_And_Average_Of_List.pdb

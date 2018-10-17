@@ -1,0 +1,6 @@
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\bin\Debug\NumTest.exe.config
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\bin\Debug\NumTest.exe
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\bin\Debug\NumTest.pdb
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\obj\Debug\NumTest.exe
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\obj\Debug\NumTest.pdb
+D:\SoftUni\Seriq_Ot_Proverki\NumTest\obj\Debug\NumTest.csprojResolveAssemblyReference.cache

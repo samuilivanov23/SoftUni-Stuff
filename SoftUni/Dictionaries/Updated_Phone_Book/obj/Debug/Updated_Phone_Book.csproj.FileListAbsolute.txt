@@ -1,0 +1,6 @@
+D:\SoftUni\Dictionaries\Updated_Phone_Book\bin\Debug\Updated_Phone_Book.exe.config
+D:\SoftUni\Dictionaries\Updated_Phone_Book\bin\Debug\Updated_Phone_Book.exe
+D:\SoftUni\Dictionaries\Updated_Phone_Book\bin\Debug\Updated_Phone_Book.pdb
+D:\SoftUni\Dictionaries\Updated_Phone_Book\obj\Debug\Updated_Phone_Book.csprojResolveAssemblyReference.cache
+D:\SoftUni\Dictionaries\Updated_Phone_Book\obj\Debug\Updated_Phone_Book.exe
+D:\SoftUni\Dictionaries\Updated_Phone_Book\obj\Debug\Updated_Phone_Book.pdb

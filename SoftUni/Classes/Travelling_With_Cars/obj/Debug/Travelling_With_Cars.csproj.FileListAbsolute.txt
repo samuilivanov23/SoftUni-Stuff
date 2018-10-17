@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\Travelling_With_Cars\bin\Debug\Travelling_With_Cars.exe.config
+D:\SoftUni\Classes\Travelling_With_Cars\bin\Debug\Travelling_With_Cars.exe
+D:\SoftUni\Classes\Travelling_With_Cars\bin\Debug\Travelling_With_Cars.pdb
+D:\SoftUni\Classes\Travelling_With_Cars\obj\Debug\Travelling_With_Cars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\Travelling_With_Cars\obj\Debug\Travelling_With_Cars.exe
+D:\SoftUni\Classes\Travelling_With_Cars\obj\Debug\Travelling_With_Cars.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Methods\SignOfNum\bin\Debug\SignOfNum.exe.config
+D:\SoftUni\Methods\SignOfNum\bin\Debug\SignOfNum.exe
+D:\SoftUni\Methods\SignOfNum\bin\Debug\SignOfNum.pdb
+D:\SoftUni\Methods\SignOfNum\obj\Debug\SignOfNum.exe
+D:\SoftUni\Methods\SignOfNum\obj\Debug\SignOfNum.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\OOP_Advanced\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.deps.json
+D:\SoftUni\OOP_Advanced\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.json
+D:\SoftUni\OOP_Advanced\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.runtimeconfig.dev.json
+D:\SoftUni\OOP_Advanced\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.dll
+D:\SoftUni\OOP_Advanced\BorderControl\bin\Debug\netcoreapp2.0\BorderControl.pdb
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csprojAssemblyReference.cache
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfoInputs.cache
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.AssemblyInfo.cs
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.dll
+D:\SoftUni\OOP_Advanced\BorderControl\obj\Debug\netcoreapp2.0\BorderControl.pdb

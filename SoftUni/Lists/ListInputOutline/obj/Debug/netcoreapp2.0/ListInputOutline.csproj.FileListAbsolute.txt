@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lists\ListInputOutline\bin\Debug\netcoreapp2.0\ListInputOutline.deps.json
+C:\Users\User\source\repos\Lists\ListInputOutline\bin\Debug\netcoreapp2.0\ListInputOutline.runtimeconfig.json
+C:\Users\User\source\repos\Lists\ListInputOutline\bin\Debug\netcoreapp2.0\ListInputOutline.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists\ListInputOutline\bin\Debug\netcoreapp2.0\ListInputOutline.dll
+C:\Users\User\source\repos\Lists\ListInputOutline\bin\Debug\netcoreapp2.0\ListInputOutline.pdb
+C:\Users\User\source\repos\Lists\ListInputOutline\obj\Debug\netcoreapp2.0\ListInputOutline.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists\ListInputOutline\obj\Debug\netcoreapp2.0\ListInputOutline.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists\ListInputOutline\obj\Debug\netcoreapp2.0\ListInputOutline.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists\ListInputOutline\obj\Debug\netcoreapp2.0\ListInputOutline.dll
+C:\Users\User\source\repos\Lists\ListInputOutline\obj\Debug\netcoreapp2.0\ListInputOutline.pdb

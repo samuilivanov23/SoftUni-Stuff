@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\SoftUni\DataTypes\EmployeeData\bin\Debug\EmployeeData.exe
+D:\SoftUni\DataTypes\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\SoftUni\DataTypes\EmployeeData\obj\Debug\EmployeeData.exe
+D:\SoftUni\DataTypes\EmployeeData\obj\Debug\EmployeeData.pdb

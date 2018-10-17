@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\bin\Debug\netcoreapp2.0\TrainsSkeleton.deps.json
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\bin\Debug\netcoreapp2.0\TrainsSkeleton.runtimeconfig.json
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\bin\Debug\netcoreapp2.0\TrainsSkeleton.runtimeconfig.dev.json
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\bin\Debug\netcoreapp2.0\TrainsSkeleton.dll
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\bin\Debug\netcoreapp2.0\TrainsSkeleton.pdb
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.AssemblyInfo.cs
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.dll
+C:\Users\User\source\repos\Algorithms_Exam\TrainsSkeleton\obj\Debug\netcoreapp2.0\TrainsSkeleton.pdb

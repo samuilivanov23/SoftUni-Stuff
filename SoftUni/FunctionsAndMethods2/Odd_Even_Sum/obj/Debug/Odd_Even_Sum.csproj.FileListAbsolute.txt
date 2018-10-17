@@ -1,0 +1,6 @@
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.exe.config
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.exe
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\bin\Debug\Odd_Even_Sum.pdb
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\obj\Debug\Odd_Even_Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\obj\Debug\Odd_Even_Sum.exe
+D:\SoftUni\FunctionsAndMethods2\Odd_Even_Sum\obj\Debug\Odd_Even_Sum.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\TrainsSkeleton2\obj\Debug\TrainsSkeleton2.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\TrainsSkeleton2\obj\Debug\TrainsSkeleton2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\TrainsSkeleton2\bin\Debug\TrainsSkeleton2.exe.config
+D:\SoftUni\Algorythms\TrainsSkeleton2\bin\Debug\TrainsSkeleton2.exe
+D:\SoftUni\Algorythms\TrainsSkeleton2\bin\Debug\TrainsSkeleton2.pdb
+D:\SoftUni\Algorythms\TrainsSkeleton2\obj\Debug\TrainsSkeleton2.exe
+D:\SoftUni\Algorythms\TrainsSkeleton2\obj\Debug\TrainsSkeleton2.pdb

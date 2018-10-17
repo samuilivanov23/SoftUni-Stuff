@@ -1,0 +1,5 @@
+D:\SoftUni\StringEddinting\SumOfCHarMultiplication\bin\Debug\SumOfCHarMultiplication.exe.config
+D:\SoftUni\StringEddinting\SumOfCHarMultiplication\bin\Debug\SumOfCHarMultiplication.exe
+D:\SoftUni\StringEddinting\SumOfCHarMultiplication\bin\Debug\SumOfCHarMultiplication.pdb
+D:\SoftUni\StringEddinting\SumOfCHarMultiplication\obj\Debug\SumOfCHarMultiplication.exe
+D:\SoftUni\StringEddinting\SumOfCHarMultiplication\obj\Debug\SumOfCHarMultiplication.pdb

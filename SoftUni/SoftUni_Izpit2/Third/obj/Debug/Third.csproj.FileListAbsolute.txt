@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni_Izpit2\Third\bin\Debug\Third.exe.config
+D:\SoftUni\SoftUni_Izpit2\Third\bin\Debug\Third.exe
+D:\SoftUni\SoftUni_Izpit2\Third\bin\Debug\Third.pdb
+D:\SoftUni\SoftUni_Izpit2\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni_Izpit2\Third\obj\Debug\Third.exe
+D:\SoftUni\SoftUni_Izpit2\Third\obj\Debug\Third.pdb

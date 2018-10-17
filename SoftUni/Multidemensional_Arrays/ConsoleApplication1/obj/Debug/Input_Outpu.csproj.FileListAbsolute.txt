@@ -1,0 +1,6 @@
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\obj\Debug\Input_Outpu.csprojResolveAssemblyReference.cache
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\Multidemensional_Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

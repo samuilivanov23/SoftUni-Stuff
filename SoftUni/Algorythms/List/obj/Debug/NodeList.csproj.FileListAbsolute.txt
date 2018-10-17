@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\List\bin\Debug\List.exe.config
+D:\SoftUni\Algorythms\List\bin\Debug\List.exe
+D:\SoftUni\Algorythms\List\bin\Debug\List.pdb
+D:\SoftUni\Algorythms\List\obj\Debug\List.exe
+D:\SoftUni\Algorythms\List\obj\Debug\List.pdb
+D:\SoftUni\Algorythms\List\obj\Debug\NodeList.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\List\obj\Debug\NodeList.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\ReadingAndWriting\InchesInCM\bin\Debug\InchesInCM.exe.config
+D:\SoftUni\ReadingAndWriting\InchesInCM\bin\Debug\InchesInCM.exe
+D:\SoftUni\ReadingAndWriting\InchesInCM\bin\Debug\InchesInCM.pdb
+D:\SoftUni\ReadingAndWriting\InchesInCM\obj\Debug\InchesInCM.csprojResolveAssemblyReference.cache
+D:\SoftUni\ReadingAndWriting\InchesInCM\obj\Debug\InchesInCM.exe
+D:\SoftUni\ReadingAndWriting\InchesInCM\obj\Debug\InchesInCM.pdb

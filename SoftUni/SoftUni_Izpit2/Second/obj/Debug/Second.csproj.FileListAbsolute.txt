@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni_Izpit2\Second\bin\Debug\Second.exe.config
+D:\SoftUni\SoftUni_Izpit2\Second\bin\Debug\Second.exe
+D:\SoftUni\SoftUni_Izpit2\Second\bin\Debug\Second.pdb
+D:\SoftUni\SoftUni_Izpit2\Second\obj\Debug\Second.exe
+D:\SoftUni\SoftUni_Izpit2\Second\obj\Debug\Second.pdb
+D:\SoftUni\SoftUni_Izpit2\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache

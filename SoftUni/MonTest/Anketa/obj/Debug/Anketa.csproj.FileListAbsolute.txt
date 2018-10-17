@@ -1,0 +1,6 @@
+D:\SoftUni\MonTest\Anketa\bin\Debug\Anketa.exe.config
+D:\SoftUni\MonTest\Anketa\bin\Debug\Anketa.exe
+D:\SoftUni\MonTest\Anketa\bin\Debug\Anketa.pdb
+D:\SoftUni\MonTest\Anketa\obj\Debug\Anketa.csprojResolveAssemblyReference.cache
+D:\SoftUni\MonTest\Anketa\obj\Debug\Anketa.exe
+D:\SoftUni\MonTest\Anketa\obj\Debug\Anketa.pdb

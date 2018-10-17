@@ -1,0 +1,6 @@
+D:\SoftUni\StringEddinting\Hidding\bin\Debug\Hidding.exe.config
+D:\SoftUni\StringEddinting\Hidding\bin\Debug\Hidding.exe
+D:\SoftUni\StringEddinting\Hidding\bin\Debug\Hidding.pdb
+D:\SoftUni\StringEddinting\Hidding\obj\Debug\Hidding.csprojResolveAssemblyReference.cache
+D:\SoftUni\StringEddinting\Hidding\obj\Debug\Hidding.exe
+D:\SoftUni\StringEddinting\Hidding\obj\Debug\Hidding.pdb

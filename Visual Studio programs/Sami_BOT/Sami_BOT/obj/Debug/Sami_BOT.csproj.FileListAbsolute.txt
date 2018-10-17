@@ -1,0 +1,6 @@
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\bin\Debug\Sami_BOT.exe.config
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\bin\Debug\Sami_BOT.exe
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\bin\Debug\Sami_BOT.pdb
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\obj\Debug\Sami_BOT.csprojResolveAssemblyReference.cache
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\obj\Debug\Sami_BOT.exe
+D:\Visual Studio programs\Sami_BOT\Sami_BOT\obj\Debug\Sami_BOT.pdb

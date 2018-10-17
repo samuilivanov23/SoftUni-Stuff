@@ -1,0 +1,6 @@
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\bin\Debug\Chislo_S_Dumi.exe.config
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\bin\Debug\Chislo_S_Dumi.exe
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\bin\Debug\Chislo_S_Dumi.pdb
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\obj\Debug\Chislo_S_Dumi.exe
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\obj\Debug\Chislo_S_Dumi.pdb
+D:\SoftUni\Seriq_Ot_Proverki\Chislo_S_Dumi\obj\Debug\Chislo_S_Dumi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays\CenterElements\bin\Debug\CenterElements.exe.config
+D:\SoftUni\Arrays\CenterElements\bin\Debug\CenterElements.exe
+D:\SoftUni\Arrays\CenterElements\bin\Debug\CenterElements.pdb
+D:\SoftUni\Arrays\CenterElements\obj\Debug\CenterElements.exe
+D:\SoftUni\Arrays\CenterElements\obj\Debug\CenterElements.pdb

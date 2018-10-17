@@ -1,0 +1,6 @@
+D:\SoftUni\MonTest\FirstExam\bin\Debug\FirstExam.exe.config
+D:\SoftUni\MonTest\FirstExam\bin\Debug\FirstExam.exe
+D:\SoftUni\MonTest\FirstExam\bin\Debug\FirstExam.pdb
+D:\SoftUni\MonTest\FirstExam\obj\Debug\Exchange.csprojResolveAssemblyReference.cache
+D:\SoftUni\MonTest\FirstExam\obj\Debug\FirstExam.exe
+D:\SoftUni\MonTest\FirstExam\obj\Debug\FirstExam.pdb

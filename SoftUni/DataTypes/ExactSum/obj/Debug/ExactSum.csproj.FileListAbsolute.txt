@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\ExactSum\bin\Debug\ExactSum.exe.config
+D:\SoftUni\DataTypes\ExactSum\bin\Debug\ExactSum.exe
+D:\SoftUni\DataTypes\ExactSum\bin\Debug\ExactSum.pdb
+D:\SoftUni\DataTypes\ExactSum\obj\Debug\ExactSum.exe
+D:\SoftUni\DataTypes\ExactSum\obj\Debug\ExactSum.pdb

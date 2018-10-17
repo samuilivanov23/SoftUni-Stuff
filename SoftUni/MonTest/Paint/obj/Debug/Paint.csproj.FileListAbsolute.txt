@@ -1,0 +1,5 @@
+D:\SoftUni\MonTest\Paint\bin\Debug\Paint.exe.config
+D:\SoftUni\MonTest\Paint\bin\Debug\Paint.exe
+D:\SoftUni\MonTest\Paint\bin\Debug\Paint.pdb
+D:\SoftUni\MonTest\Paint\obj\Debug\Paint.exe
+D:\SoftUni\MonTest\Paint\obj\Debug\Paint.pdb

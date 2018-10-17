@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Swap\bin\Debug\Swap.exe.config
+D:\SoftUni\DataTypes\Swap\bin\Debug\Swap.exe
+D:\SoftUni\DataTypes\Swap\bin\Debug\Swap.pdb
+D:\SoftUni\DataTypes\Swap\obj\Debug\Swap.exe
+D:\SoftUni\DataTypes\Swap\obj\Debug\Swap.pdb

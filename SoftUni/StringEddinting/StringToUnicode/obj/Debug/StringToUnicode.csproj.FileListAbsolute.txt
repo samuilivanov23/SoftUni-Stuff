@@ -1,0 +1,6 @@
+D:\SoftUni\StringEddinting\StringToUnicode\bin\Debug\StringToUnicode.exe.config
+D:\SoftUni\StringEddinting\StringToUnicode\bin\Debug\StringToUnicode.exe
+D:\SoftUni\StringEddinting\StringToUnicode\bin\Debug\StringToUnicode.pdb
+D:\SoftUni\StringEddinting\StringToUnicode\obj\Debug\StringToUnicode.csprojResolveAssemblyReference.cache
+D:\SoftUni\StringEddinting\StringToUnicode\obj\Debug\StringToUnicode.exe
+D:\SoftUni\StringEddinting\StringToUnicode\obj\Debug\StringToUnicode.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\bin\Debug\1000DaysEarth.exe.config
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\bin\Debug\1000DaysEarth.exe
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\bin\Debug\1000DaysEarth.pdb
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\obj\Debug\1000DaysEarth.exe
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\obj\Debug\1000DaysEarth.pdb
+D:\SoftUni\ProstiPresmqtaniq\1000DaysEarth\obj\Debug\1000DaysEarth.csprojResolveAssemblyReference.cache

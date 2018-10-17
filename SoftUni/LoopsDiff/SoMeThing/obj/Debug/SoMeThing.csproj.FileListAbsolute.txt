@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsDiff\SoMeThing\bin\Debug\SoMeThing.exe.config
+D:\SoftUni\LoopsDiff\SoMeThing\bin\Debug\SoMeThing.exe
+D:\SoftUni\LoopsDiff\SoMeThing\bin\Debug\SoMeThing.pdb
+D:\SoftUni\LoopsDiff\SoMeThing\obj\Debug\SoMeThing.exe
+D:\SoftUni\LoopsDiff\SoMeThing\obj\Debug\SoMeThing.pdb
+D:\SoftUni\LoopsDiff\SoMeThing\obj\Debug\SoMeThing.csprojResolveAssemblyReference.cache

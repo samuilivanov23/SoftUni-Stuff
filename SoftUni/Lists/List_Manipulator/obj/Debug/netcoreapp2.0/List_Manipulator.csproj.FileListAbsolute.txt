@@ -1,0 +1,11 @@
+C:\SoftUni\Lists\List_Manipulator\bin\Debug\netcoreapp2.0\List_Manipulator.deps.json
+C:\SoftUni\Lists\List_Manipulator\bin\Debug\netcoreapp2.0\List_Manipulator.runtimeconfig.json
+C:\SoftUni\Lists\List_Manipulator\bin\Debug\netcoreapp2.0\List_Manipulator.runtimeconfig.dev.json
+C:\SoftUni\Lists\List_Manipulator\bin\Debug\netcoreapp2.0\List_Manipulator.dll
+C:\SoftUni\Lists\List_Manipulator\bin\Debug\netcoreapp2.0\List_Manipulator.pdb
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.csprojResolveAssemblyReference.cache
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.csproj.CoreCompileInputs.cache
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.AssemblyInfoInputs.cache
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.AssemblyInfo.cs
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.dll
+C:\SoftUni\Lists\List_Manipulator\obj\Debug\netcoreapp2.0\List_Manipulator.pdb

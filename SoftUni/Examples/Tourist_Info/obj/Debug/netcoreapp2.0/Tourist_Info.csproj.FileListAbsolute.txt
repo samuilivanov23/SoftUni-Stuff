@@ -1,0 +1,11 @@
+C:\SoftUni\Examples\Tourist_Info\bin\Debug\netcoreapp2.0\Tourist_Info.deps.json
+C:\SoftUni\Examples\Tourist_Info\bin\Debug\netcoreapp2.0\Tourist_Info.runtimeconfig.json
+C:\SoftUni\Examples\Tourist_Info\bin\Debug\netcoreapp2.0\Tourist_Info.runtimeconfig.dev.json
+C:\SoftUni\Examples\Tourist_Info\bin\Debug\netcoreapp2.0\Tourist_Info.dll
+C:\SoftUni\Examples\Tourist_Info\bin\Debug\netcoreapp2.0\Tourist_Info.pdb
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.csprojResolveAssemblyReference.cache
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.csproj.CoreCompileInputs.cache
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.AssemblyInfoInputs.cache
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.AssemblyInfo.cs
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.dll
+C:\SoftUni\Examples\Tourist_Info\obj\Debug\netcoreapp2.0\Tourist_Info.pdb

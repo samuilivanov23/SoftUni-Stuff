@@ -1,0 +1,5 @@
+D:\SoftUni\FirstSoftUni\Square_Area\bin\Debug\Square_Area.exe.config
+D:\SoftUni\FirstSoftUni\Square_Area\bin\Debug\Square_Area.exe
+D:\SoftUni\FirstSoftUni\Square_Area\bin\Debug\Square_Area.pdb
+D:\SoftUni\FirstSoftUni\Square_Area\obj\Debug\Square_Area.exe
+D:\SoftUni\FirstSoftUni\Square_Area\obj\Debug\Square_Area.pdb

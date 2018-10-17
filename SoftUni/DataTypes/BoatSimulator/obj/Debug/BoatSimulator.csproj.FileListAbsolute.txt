@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\BoatSimulator\bin\Debug\BoatSimulator.exe.config
+D:\SoftUni\DataTypes\BoatSimulator\bin\Debug\BoatSimulator.exe
+D:\SoftUni\DataTypes\BoatSimulator\bin\Debug\BoatSimulator.pdb
+D:\SoftUni\DataTypes\BoatSimulator\obj\Debug\BoatSimulator.exe
+D:\SoftUni\DataTypes\BoatSimulator\obj\Debug\BoatSimulator.pdb

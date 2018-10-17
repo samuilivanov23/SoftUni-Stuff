@@ -1,0 +1,5 @@
+D:\SoftUni\StringEddinting\Cenzora\bin\Debug\Cenzora.exe.config
+D:\SoftUni\StringEddinting\Cenzora\bin\Debug\Cenzora.exe
+D:\SoftUni\StringEddinting\Cenzora\bin\Debug\Cenzora.pdb
+D:\SoftUni\StringEddinting\Cenzora\obj\Debug\Cenzora.exe
+D:\SoftUni\StringEddinting\Cenzora\obj\Debug\Cenzora.pdb

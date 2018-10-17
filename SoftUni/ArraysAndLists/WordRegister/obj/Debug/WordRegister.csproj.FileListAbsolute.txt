@@ -1,0 +1,6 @@
+D:\SoftUni\ArraysAndLists\WordRegister\bin\Debug\WordRegister.exe.config
+D:\SoftUni\ArraysAndLists\WordRegister\bin\Debug\WordRegister.exe
+D:\SoftUni\ArraysAndLists\WordRegister\bin\Debug\WordRegister.pdb
+D:\SoftUni\ArraysAndLists\WordRegister\obj\Debug\WordRegister.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArraysAndLists\WordRegister\obj\Debug\WordRegister.exe
+D:\SoftUni\ArraysAndLists\WordRegister\obj\Debug\WordRegister.pdb

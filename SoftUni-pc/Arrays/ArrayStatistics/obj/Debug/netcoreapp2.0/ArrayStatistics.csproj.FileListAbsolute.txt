@@ -1,0 +1,11 @@
+C:\SoftUni\Arrays\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.deps.json
+C:\SoftUni\Arrays\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.runtimeconfig.json
+C:\SoftUni\Arrays\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.runtimeconfig.dev.json
+C:\SoftUni\Arrays\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.dll
+C:\SoftUni\Arrays\ArrayStatistics\bin\Debug\netcoreapp2.0\ArrayStatistics.pdb
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.csprojResolveAssemblyReference.cache
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.AssemblyInfoInputs.cache
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.AssemblyInfo.cs
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.dll
+C:\SoftUni\Arrays\ArrayStatistics\obj\Debug\netcoreapp2.0\ArrayStatistics.pdb

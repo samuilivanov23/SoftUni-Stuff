@@ -1,0 +1,5 @@
+D:\SoftUni\Lists\Qount_Of_Numbers\bin\Debug\Qount_Of_Numbers.exe.config
+D:\SoftUni\Lists\Qount_Of_Numbers\bin\Debug\Qount_Of_Numbers.exe
+D:\SoftUni\Lists\Qount_Of_Numbers\bin\Debug\Qount_Of_Numbers.pdb
+D:\SoftUni\Lists\Qount_Of_Numbers\obj\Debug\Qount_Of_Numbers.exe
+D:\SoftUni\Lists\Qount_Of_Numbers\obj\Debug\Qount_Of_Numbers.pdb

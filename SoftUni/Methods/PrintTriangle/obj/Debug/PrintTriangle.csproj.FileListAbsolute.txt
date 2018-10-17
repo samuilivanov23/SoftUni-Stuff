@@ -1,0 +1,5 @@
+D:\SoftUni\Methods\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+D:\SoftUni\Methods\PrintTriangle\bin\Debug\PrintTriangle.exe
+D:\SoftUni\Methods\PrintTriangle\bin\Debug\PrintTriangle.pdb
+D:\SoftUni\Methods\PrintTriangle\obj\Debug\PrintTriangle.exe
+D:\SoftUni\Methods\PrintTriangle\obj\Debug\PrintTriangle.pdb

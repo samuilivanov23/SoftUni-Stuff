@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\CarSeller\bin\Debug\CarSeller.exe.config
+D:\SoftUni\Classes\CarSeller\bin\Debug\CarSeller.exe
+D:\SoftUni\Classes\CarSeller\bin\Debug\CarSeller.pdb
+D:\SoftUni\Classes\CarSeller\obj\Debug\CarSeller.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\CarSeller\obj\Debug\CarSeller.exe
+D:\SoftUni\Classes\CarSeller\obj\Debug\CarSeller.pdb

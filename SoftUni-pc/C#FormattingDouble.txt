@@ -1,0 +1,4 @@
+c# formatting
+
+var str = nameOfDouble.ToString("0.00");
+Console.ReadLine(str);

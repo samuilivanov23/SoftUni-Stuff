@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\SumOfSymbols\bin\Debug\SumOfSymbols.exe.config
+D:\SoftUni\DataTypes\SumOfSymbols\bin\Debug\SumOfSymbols.exe
+D:\SoftUni\DataTypes\SumOfSymbols\bin\Debug\SumOfSymbols.pdb
+D:\SoftUni\DataTypes\SumOfSymbols\obj\Debug\SumOfSymbols.exe
+D:\SoftUni\DataTypes\SumOfSymbols\obj\Debug\SumOfSymbols.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio programs\Course_1\Course_1\bin\Debug\Course_1.exe.config
+D:\Visual Studio programs\Course_1\Course_1\bin\Debug\Course_1.exe
+D:\Visual Studio programs\Course_1\Course_1\bin\Debug\Course_1.pdb
+D:\Visual Studio programs\Course_1\Course_1\obj\Debug\Course_1.csprojResolveAssemblyReference.cache
+D:\Visual Studio programs\Course_1\Course_1\obj\Debug\Course_1.exe
+D:\Visual Studio programs\Course_1\Course_1\obj\Debug\Course_1.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Dictionaries\Hour_Sorting\bin\Debug\Hour_Sorting.exe.config
+D:\SoftUni\Dictionaries\Hour_Sorting\bin\Debug\Hour_Sorting.exe
+D:\SoftUni\Dictionaries\Hour_Sorting\bin\Debug\Hour_Sorting.pdb
+D:\SoftUni\Dictionaries\Hour_Sorting\obj\Debug\Hour_Sorting.csprojResolveAssemblyReference.cache
+D:\SoftUni\Dictionaries\Hour_Sorting\obj\Debug\Hour_Sorting.exe
+D:\SoftUni\Dictionaries\Hour_Sorting\obj\Debug\Hour_Sorting.pdb

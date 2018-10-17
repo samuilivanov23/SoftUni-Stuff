@@ -1,0 +1,11 @@
+C:\SoftUni\Examples\GranicaNaTipa\bin\Debug\netcoreapp2.0\GranicaNaTipa.deps.json
+C:\SoftUni\Examples\GranicaNaTipa\bin\Debug\netcoreapp2.0\GranicaNaTipa.runtimeconfig.json
+C:\SoftUni\Examples\GranicaNaTipa\bin\Debug\netcoreapp2.0\GranicaNaTipa.runtimeconfig.dev.json
+C:\SoftUni\Examples\GranicaNaTipa\bin\Debug\netcoreapp2.0\GranicaNaTipa.dll
+C:\SoftUni\Examples\GranicaNaTipa\bin\Debug\netcoreapp2.0\GranicaNaTipa.pdb
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.csprojResolveAssemblyReference.cache
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.csproj.CoreCompileInputs.cache
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.AssemblyInfoInputs.cache
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.AssemblyInfo.cs
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.dll
+C:\SoftUni\Examples\GranicaNaTipa\obj\Debug\netcoreapp2.0\GranicaNaTipa.pdb

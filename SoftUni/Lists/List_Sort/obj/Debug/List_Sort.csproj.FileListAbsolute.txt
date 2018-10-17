@@ -1,0 +1,5 @@
+D:\SoftUni\Lists\List_Sort\bin\Debug\List_Sort.exe.config
+D:\SoftUni\Lists\List_Sort\bin\Debug\List_Sort.exe
+D:\SoftUni\Lists\List_Sort\bin\Debug\List_Sort.pdb
+D:\SoftUni\Lists\List_Sort\obj\Debug\List_Sort.exe
+D:\SoftUni\Lists\List_Sort\obj\Debug\List_Sort.pdb

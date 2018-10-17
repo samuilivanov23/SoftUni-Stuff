@@ -1,0 +1,6 @@
+D:\SoftUni\SlojniProverki\First\bin\Debug\First.exe.config
+D:\SoftUni\SlojniProverki\First\bin\Debug\First.exe
+D:\SoftUni\SlojniProverki\First\bin\Debug\First.pdb
+D:\SoftUni\SlojniProverki\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+D:\SoftUni\SlojniProverki\First\obj\Debug\First.exe
+D:\SoftUni\SlojniProverki\First\obj\Debug\First.pdb

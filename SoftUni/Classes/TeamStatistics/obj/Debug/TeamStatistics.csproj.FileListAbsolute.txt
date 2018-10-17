@@ -1,0 +1,5 @@
+D:\SoftUni\Classes\TeamStatistics\bin\Debug\TeamStatistics.exe.config
+D:\SoftUni\Classes\TeamStatistics\bin\Debug\TeamStatistics.exe
+D:\SoftUni\Classes\TeamStatistics\bin\Debug\TeamStatistics.pdb
+D:\SoftUni\Classes\TeamStatistics\obj\Debug\TeamStatistics.exe
+D:\SoftUni\Classes\TeamStatistics\obj\Debug\TeamStatistics.pdb

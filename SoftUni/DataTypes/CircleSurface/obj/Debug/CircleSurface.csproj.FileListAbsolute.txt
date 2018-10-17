@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\CircleSurface\bin\Debug\CircleSurface.exe.config
+D:\SoftUni\DataTypes\CircleSurface\bin\Debug\CircleSurface.exe
+D:\SoftUni\DataTypes\CircleSurface\bin\Debug\CircleSurface.pdb
+D:\SoftUni\DataTypes\CircleSurface\obj\Debug\CircleSurface.exe
+D:\SoftUni\DataTypes\CircleSurface\obj\Debug\CircleSurface.pdb

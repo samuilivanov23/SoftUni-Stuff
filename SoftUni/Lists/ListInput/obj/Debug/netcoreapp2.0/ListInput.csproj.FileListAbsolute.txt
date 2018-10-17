@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lists\ListInput\bin\Debug\netcoreapp2.0\ListInput.deps.json
+C:\Users\User\source\repos\Lists\ListInput\bin\Debug\netcoreapp2.0\ListInput.runtimeconfig.json
+C:\Users\User\source\repos\Lists\ListInput\bin\Debug\netcoreapp2.0\ListInput.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists\ListInput\bin\Debug\netcoreapp2.0\ListInput.dll
+C:\Users\User\source\repos\Lists\ListInput\bin\Debug\netcoreapp2.0\ListInput.pdb
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.dll
+C:\Users\User\source\repos\Lists\ListInput\obj\Debug\netcoreapp2.0\ListInput.pdb

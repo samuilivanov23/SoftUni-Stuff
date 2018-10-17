@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\ReversedList\bin\Debug\ReversedList.exe.config
+D:\SoftUni\Algorythms\ReversedList\bin\Debug\ReversedList.exe
+D:\SoftUni\Algorythms\ReversedList\bin\Debug\ReversedList.pdb
+D:\SoftUni\Algorythms\ReversedList\obj\Debug\ReversedList.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\ReversedList\obj\Debug\ReversedList.exe
+D:\SoftUni\Algorythms\ReversedList\obj\Debug\ReversedList.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\SubCollections\bin\Debug\SubCollections.exe.config
+D:\SoftUni\Algorythms\SubCollections\bin\Debug\SubCollections.exe
+D:\SoftUni\Algorythms\SubCollections\bin\Debug\SubCollections.pdb
+D:\SoftUni\Algorythms\SubCollections\obj\Debug\SubCollections.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\SubCollections\obj\Debug\SubCollections.exe
+D:\SoftUni\Algorythms\SubCollections\obj\Debug\SubCollections.pdb

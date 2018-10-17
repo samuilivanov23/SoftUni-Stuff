@@ -1,0 +1,6 @@
+D:\SoftUni\DataTypes\nizove\bin\Debug\nizove.exe.config
+D:\SoftUni\DataTypes\nizove\bin\Debug\nizove.exe
+D:\SoftUni\DataTypes\nizove\bin\Debug\nizove.pdb
+D:\SoftUni\DataTypes\nizove\obj\Debug\nizove.csprojResolveAssemblyReference.cache
+D:\SoftUni\DataTypes\nizove\obj\Debug\nizove.exe
+D:\SoftUni\DataTypes\nizove\obj\Debug\nizove.pdb

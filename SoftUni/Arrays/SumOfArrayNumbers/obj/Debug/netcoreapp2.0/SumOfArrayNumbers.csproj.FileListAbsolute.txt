@@ -1,0 +1,11 @@
+C:\SoftUni\Arrays\SumOfArrayNumbers\bin\Debug\netcoreapp2.0\SumOfArrayNumbers.deps.json
+C:\SoftUni\Arrays\SumOfArrayNumbers\bin\Debug\netcoreapp2.0\SumOfArrayNumbers.runtimeconfig.json
+C:\SoftUni\Arrays\SumOfArrayNumbers\bin\Debug\netcoreapp2.0\SumOfArrayNumbers.runtimeconfig.dev.json
+C:\SoftUni\Arrays\SumOfArrayNumbers\bin\Debug\netcoreapp2.0\SumOfArrayNumbers.dll
+C:\SoftUni\Arrays\SumOfArrayNumbers\bin\Debug\netcoreapp2.0\SumOfArrayNumbers.pdb
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.csprojResolveAssemblyReference.cache
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.AssemblyInfo.cs
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.dll
+C:\SoftUni\Arrays\SumOfArrayNumbers\obj\Debug\netcoreapp2.0\SumOfArrayNumbers.pdb

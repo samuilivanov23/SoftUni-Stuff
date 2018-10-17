@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\8_Queens\bin\Debug\8_Queens.exe.config
+D:\SoftUni\Algorythms\8_Queens\bin\Debug\8_Queens.exe
+D:\SoftUni\Algorythms\8_Queens\bin\Debug\8_Queens.pdb
+D:\SoftUni\Algorythms\8_Queens\obj\Debug\8_Queens.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\8_Queens\obj\Debug\8_Queens.exe
+D:\SoftUni\Algorythms\8_Queens\obj\Debug\8_Queens.pdb

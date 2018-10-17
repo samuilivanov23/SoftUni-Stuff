@@ -1,0 +1,6 @@
+D:\SoftUni\StringEddinting\Only_Letters\bin\Debug\Only_Letters.exe.config
+D:\SoftUni\StringEddinting\Only_Letters\bin\Debug\Only_Letters.exe
+D:\SoftUni\StringEddinting\Only_Letters\bin\Debug\Only_Letters.pdb
+D:\SoftUni\StringEddinting\Only_Letters\obj\Debug\Only_Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\StringEddinting\Only_Letters\obj\Debug\Only_Letters.exe
+D:\SoftUni\StringEddinting\Only_Letters\obj\Debug\Only_Letters.pdb

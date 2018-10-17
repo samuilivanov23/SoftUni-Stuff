@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\GameSkeleton\bin\Debug\GameSkeleton.exe.config
+D:\SoftUni\Algorythms\GameSkeleton\bin\Debug\GameSkeleton.exe
+D:\SoftUni\Algorythms\GameSkeleton\bin\Debug\GameSkeleton.pdb
+D:\SoftUni\Algorythms\GameSkeleton\obj\Debug\GameSkeleton.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\GameSkeleton\obj\Debug\GameSkeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\GameSkeleton\obj\Debug\GameSkeleton.exe
+D:\SoftUni\Algorythms\GameSkeleton\obj\Debug\GameSkeleton.pdb

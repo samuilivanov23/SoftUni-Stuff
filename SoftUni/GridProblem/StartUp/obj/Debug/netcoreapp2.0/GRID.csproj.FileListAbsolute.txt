@@ -1,0 +1,11 @@
+D:\SoftUni\GridProblem\StartUp\bin\Debug\netcoreapp2.0\GRID.deps.json
+D:\SoftUni\GridProblem\StartUp\bin\Debug\netcoreapp2.0\GRID.runtimeconfig.json
+D:\SoftUni\GridProblem\StartUp\bin\Debug\netcoreapp2.0\GRID.runtimeconfig.dev.json
+D:\SoftUni\GridProblem\StartUp\bin\Debug\netcoreapp2.0\GRID.dll
+D:\SoftUni\GridProblem\StartUp\bin\Debug\netcoreapp2.0\GRID.pdb
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.csprojAssemblyReference.cache
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.csproj.CoreCompileInputs.cache
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.AssemblyInfoInputs.cache
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.AssemblyInfo.cs
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.dll
+D:\SoftUni\GridProblem\StartUp\obj\Debug\netcoreapp2.0\GRID.pdb

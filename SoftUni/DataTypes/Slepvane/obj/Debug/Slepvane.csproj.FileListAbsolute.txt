@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Slepvane\bin\Debug\Slepvane.exe.config
+D:\SoftUni\DataTypes\Slepvane\bin\Debug\Slepvane.exe
+D:\SoftUni\DataTypes\Slepvane\bin\Debug\Slepvane.pdb
+D:\SoftUni\DataTypes\Slepvane\obj\Debug\Slepvane.exe
+D:\SoftUni\DataTypes\Slepvane\obj\Debug\Slepvane.pdb

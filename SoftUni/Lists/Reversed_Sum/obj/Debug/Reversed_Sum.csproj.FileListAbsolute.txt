@@ -1,0 +1,6 @@
+D:\SoftUni\Lists\Reversed_Sum\bin\Debug\Reversed_Sum.exe.config
+D:\SoftUni\Lists\Reversed_Sum\bin\Debug\Reversed_Sum.exe
+D:\SoftUni\Lists\Reversed_Sum\bin\Debug\Reversed_Sum.pdb
+D:\SoftUni\Lists\Reversed_Sum\obj\Debug\Reversed_Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lists\Reversed_Sum\obj\Debug\Reversed_Sum.exe
+D:\SoftUni\Lists\Reversed_Sum\obj\Debug\Reversed_Sum.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\bin\Debug\netcoreapp2.0\Max_Count_Same_Nums.deps.json
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\bin\Debug\netcoreapp2.0\Max_Count_Same_Nums.runtimeconfig.json
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\bin\Debug\netcoreapp2.0\Max_Count_Same_Nums.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\bin\Debug\netcoreapp2.0\Max_Count_Same_Nums.dll
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\bin\Debug\netcoreapp2.0\Max_Count_Same_Nums.pdb
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\obj\Debug\netcoreapp2.0\Max_Count_Same_Nums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\obj\Debug\netcoreapp2.0\Max_Count_Same_Nums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\obj\Debug\netcoreapp2.0\Max_Count_Same_Nums.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\obj\Debug\netcoreapp2.0\Max_Count_Same_Nums.dll
+C:\Users\User\source\repos\Lists\Max_Count_Same_Nums\obj\Debug\netcoreapp2.0\Max_Count_Same_Nums.pdb

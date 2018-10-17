@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\Conjunction\bin\Debug\Conjunction.exe.config
+D:\SoftUni\Algorythms\Conjunction\bin\Debug\Conjunction.exe
+D:\SoftUni\Algorythms\Conjunction\bin\Debug\Conjunction.pdb
+D:\SoftUni\Algorythms\Conjunction\obj\Debug\Conjunction.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\Conjunction\obj\Debug\Conjunction.exe
+D:\SoftUni\Algorythms\Conjunction\obj\Debug\Conjunction.pdb

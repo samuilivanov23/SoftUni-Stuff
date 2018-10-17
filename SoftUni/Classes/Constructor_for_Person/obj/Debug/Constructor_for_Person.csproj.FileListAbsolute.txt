@@ -1,0 +1,5 @@
+D:\SoftUni\Classes\Constructor_for_Person\bin\Debug\Constructor_for_Person.exe.config
+D:\SoftUni\Classes\Constructor_for_Person\bin\Debug\Constructor_for_Person.exe
+D:\SoftUni\Classes\Constructor_for_Person\bin\Debug\Constructor_for_Person.pdb
+D:\SoftUni\Classes\Constructor_for_Person\obj\Debug\Constructor_for_Person.exe
+D:\SoftUni\Classes\Constructor_for_Person\obj\Debug\Constructor_for_Person.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\OOP_Advanced\Frogs\obj\Debug\netcoreapp2.0\Frogs.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\Frogs\obj\Debug\netcoreapp2.0\Frogs.AssemblyInfoInputs.cache
+D:\SoftUni\OOP_Advanced\Frogs\obj\Debug\netcoreapp2.0\Frogs.AssemblyInfo.cs
+D:\SoftUni\OOP_Advanced\Frogs\bin\Debug\netcoreapp2.0\Frogs.deps.json
+D:\SoftUni\OOP_Advanced\Frogs\bin\Debug\netcoreapp2.0\Frogs.runtimeconfig.json
+D:\SoftUni\OOP_Advanced\Frogs\bin\Debug\netcoreapp2.0\Frogs.runtimeconfig.dev.json
+D:\SoftUni\OOP_Advanced\Frogs\bin\Debug\netcoreapp2.0\Frogs.dll
+D:\SoftUni\OOP_Advanced\Frogs\bin\Debug\netcoreapp2.0\Frogs.pdb
+D:\SoftUni\OOP_Advanced\Frogs\obj\Debug\netcoreapp2.0\Frogs.dll
+D:\SoftUni\OOP_Advanced\Frogs\obj\Debug\netcoreapp2.0\Frogs.pdb

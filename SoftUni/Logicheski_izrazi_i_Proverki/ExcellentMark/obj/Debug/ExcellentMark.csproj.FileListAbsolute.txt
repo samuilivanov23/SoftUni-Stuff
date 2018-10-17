@@ -1,0 +1,6 @@
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\bin\Debug\ExcellentMark.exe.config
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\bin\Debug\ExcellentMark.exe
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\bin\Debug\ExcellentMark.pdb
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\obj\Debug\ExcellentMark.csprojResolveAssemblyReference.cache
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\obj\Debug\ExcellentMark.exe
+D:\SoftUni\Logicheski_izrazi_i_Proverki\ExcellentMark\obj\Debug\ExcellentMark.pdb

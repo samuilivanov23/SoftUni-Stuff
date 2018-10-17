@@ -1,0 +1,7 @@
+D:\SoftUni\OOP_Advanced\NUnit\bin\Debug\NUnit.exe.config
+D:\SoftUni\OOP_Advanced\NUnit\bin\Debug\NUnit.exe
+D:\SoftUni\OOP_Advanced\NUnit\bin\Debug\NUnit.pdb
+D:\SoftUni\OOP_Advanced\NUnit\obj\Debug\BankingSystem.csprojAssemblyReference.cache
+D:\SoftUni\OOP_Advanced\NUnit\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\NUnit\obj\Debug\NUnit.exe
+D:\SoftUni\OOP_Advanced\NUnit\obj\Debug\NUnit.pdb

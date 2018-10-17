@@ -1,0 +1,6 @@
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.exe.config
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.exe
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.pdb
+D:\SoftUni\FirstSoftUni\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+D:\SoftUni\FirstSoftUni\Hello\obj\Debug\Hello.exe
+D:\SoftUni\FirstSoftUni\Hello\obj\Debug\Hello.pdb

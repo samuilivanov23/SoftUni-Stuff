@@ -1,0 +1,5 @@
+D:\SoftUni\Logicheski_izrazi_i_Proverki\3EdnakviChisla\bin\Debug\3EdnakviChisla.exe.config
+D:\SoftUni\Logicheski_izrazi_i_Proverki\3EdnakviChisla\bin\Debug\3EdnakviChisla.exe
+D:\SoftUni\Logicheski_izrazi_i_Proverki\3EdnakviChisla\bin\Debug\3EdnakviChisla.pdb
+D:\SoftUni\Logicheski_izrazi_i_Proverki\3EdnakviChisla\obj\Debug\3EdnakviChisla.exe
+D:\SoftUni\Logicheski_izrazi_i_Proverki\3EdnakviChisla\obj\Debug\3EdnakviChisla.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\bin\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.deps.json
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\bin\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.runtimeconfig.json
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\bin\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.runtimeconfig.dev.json
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\bin\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.dll
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\bin\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.pdb
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.csprojResolveAssemblyReference.cache
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.csproj.CoreCompileInputs.cache
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.AssemblyInfoInputs.cache
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.AssemblyInfo.cs
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.dll
+C:\SoftUni\Lists\LIS_Longest_Increasing_Subsequence\obj\Debug\netcoreapp2.0\LIS_Longest_Increasing_Subsequence.pdb

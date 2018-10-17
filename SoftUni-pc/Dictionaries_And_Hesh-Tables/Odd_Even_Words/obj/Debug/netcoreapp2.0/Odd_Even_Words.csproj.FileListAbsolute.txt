@@ -1,0 +1,11 @@
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\bin\Debug\netcoreapp2.0\Odd_Even_Words.deps.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\bin\Debug\netcoreapp2.0\Odd_Even_Words.runtimeconfig.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\bin\Debug\netcoreapp2.0\Odd_Even_Words.runtimeconfig.dev.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\bin\Debug\netcoreapp2.0\Odd_Even_Words.dll
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\bin\Debug\netcoreapp2.0\Odd_Even_Words.pdb
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.csprojResolveAssemblyReference.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.csproj.CoreCompileInputs.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.AssemblyInfoInputs.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.AssemblyInfo.cs
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.dll
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Odd_Even_Words\obj\Debug\netcoreapp2.0\Odd_Even_Words.pdb

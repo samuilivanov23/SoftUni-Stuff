@@ -1,0 +1,5 @@
+D:\SoftUni\Algorythms\N_Sequence\bin\Debug\N_Sequence.exe.config
+D:\SoftUni\Algorythms\N_Sequence\bin\Debug\N_Sequence.exe
+D:\SoftUni\Algorythms\N_Sequence\bin\Debug\N_Sequence.pdb
+D:\SoftUni\Algorythms\N_Sequence\obj\Debug\N_Sequence.exe
+D:\SoftUni\Algorythms\N_Sequence\obj\Debug\N_Sequence.pdb

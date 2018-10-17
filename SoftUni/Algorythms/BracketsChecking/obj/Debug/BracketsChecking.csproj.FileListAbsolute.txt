@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\BracketsChecking\bin\Debug\BracketsChecking.exe.config
+D:\SoftUni\Algorythms\BracketsChecking\bin\Debug\BracketsChecking.exe
+D:\SoftUni\Algorythms\BracketsChecking\bin\Debug\BracketsChecking.pdb
+D:\SoftUni\Algorythms\BracketsChecking\obj\Debug\BracketsChecking.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\BracketsChecking\obj\Debug\BracketsChecking.exe
+D:\SoftUni\Algorythms\BracketsChecking\obj\Debug\BracketsChecking.pdb

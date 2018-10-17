@@ -1,0 +1,5 @@
+D:\SoftUni\ArraysAndLists\Summing_Equals_Nums\bin\Debug\Summing_Equals_Nums.exe.config
+D:\SoftUni\ArraysAndLists\Summing_Equals_Nums\bin\Debug\Summing_Equals_Nums.exe
+D:\SoftUni\ArraysAndLists\Summing_Equals_Nums\bin\Debug\Summing_Equals_Nums.pdb
+D:\SoftUni\ArraysAndLists\Summing_Equals_Nums\obj\Debug\Summing_Equals_Nums.exe
+D:\SoftUni\ArraysAndLists\Summing_Equals_Nums\obj\Debug\Summing_Equals_Nums.pdb

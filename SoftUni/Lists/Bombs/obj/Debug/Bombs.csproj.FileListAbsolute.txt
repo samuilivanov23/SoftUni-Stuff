@@ -1,0 +1,6 @@
+D:\SoftUni\Lists\Bombs\bin\Debug\Bombs.exe.config
+D:\SoftUni\Lists\Bombs\obj\Debug\Bombs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lists\Bombs\bin\Debug\Bombs.exe
+D:\SoftUni\Lists\Bombs\bin\Debug\Bombs.pdb
+D:\SoftUni\Lists\Bombs\obj\Debug\Bombs.exe
+D:\SoftUni\Lists\Bombs\obj\Debug\Bombs.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays\RotatingAndSummingArray\bin\Debug\RotatingAndSummingArray.exe.config
+D:\SoftUni\Arrays\RotatingAndSummingArray\bin\Debug\RotatingAndSummingArray.exe
+D:\SoftUni\Arrays\RotatingAndSummingArray\bin\Debug\RotatingAndSummingArray.pdb
+D:\SoftUni\Arrays\RotatingAndSummingArray\obj\Debug\RotatingAndSummingArray.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays\RotatingAndSummingArray\obj\Debug\RotatingAndSummingArray.exe
+D:\SoftUni\Arrays\RotatingAndSummingArray\obj\Debug\RotatingAndSummingArray.pdb

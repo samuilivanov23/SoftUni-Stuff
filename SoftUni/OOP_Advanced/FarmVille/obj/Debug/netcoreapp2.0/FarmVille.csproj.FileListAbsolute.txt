@@ -1,0 +1,11 @@
+D:\SoftUni\OOP_Advanced\FarmVille\bin\Debug\netcoreapp2.0\FarmVille.deps.json
+D:\SoftUni\OOP_Advanced\FarmVille\bin\Debug\netcoreapp2.0\FarmVille.runtimeconfig.json
+D:\SoftUni\OOP_Advanced\FarmVille\bin\Debug\netcoreapp2.0\FarmVille.runtimeconfig.dev.json
+D:\SoftUni\OOP_Advanced\FarmVille\bin\Debug\netcoreapp2.0\FarmVille.dll
+D:\SoftUni\OOP_Advanced\FarmVille\bin\Debug\netcoreapp2.0\FarmVille.pdb
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.csprojAssemblyReference.cache
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.AssemblyInfoInputs.cache
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.AssemblyInfo.cs
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.dll
+D:\SoftUni\OOP_Advanced\FarmVille\obj\Debug\netcoreapp2.0\FarmVille.pdb

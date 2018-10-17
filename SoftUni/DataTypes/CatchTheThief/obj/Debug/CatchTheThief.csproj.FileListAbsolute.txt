@@ -1,0 +1,6 @@
+D:\SoftUni\DataTypes\CatchTheThief\bin\Debug\CatchTheThief.exe.config
+D:\SoftUni\DataTypes\CatchTheThief\bin\Debug\CatchTheThief.exe
+D:\SoftUni\DataTypes\CatchTheThief\bin\Debug\CatchTheThief.pdb
+D:\SoftUni\DataTypes\CatchTheThief\obj\Debug\CatchTheThief.csprojResolveAssemblyReference.cache
+D:\SoftUni\DataTypes\CatchTheThief\obj\Debug\CatchTheThief.exe
+D:\SoftUni\DataTypes\CatchTheThief\obj\Debug\CatchTheThief.pdb

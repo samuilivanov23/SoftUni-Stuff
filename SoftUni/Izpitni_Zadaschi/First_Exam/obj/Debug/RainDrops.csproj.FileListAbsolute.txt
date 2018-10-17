@@ -1,0 +1,6 @@
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\bin\Debug\First_Exam.exe.config
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\bin\Debug\First_Exam.exe
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\bin\Debug\First_Exam.pdb
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\obj\Debug\RainDrops.csprojResolveAssemblyReference.cache
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\obj\Debug\First_Exam.exe
+D:\SoftUni\Izpitni_Zadaschi\First_Exam\obj\Debug\First_Exam.pdb

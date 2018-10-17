@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Decimal\bin\Debug\Decimal.exe.config
+D:\SoftUni\DataTypes\Decimal\bin\Debug\Decimal.exe
+D:\SoftUni\DataTypes\Decimal\bin\Debug\Decimal.pdb
+D:\SoftUni\DataTypes\Decimal\obj\Debug\Decimal.exe
+D:\SoftUni\DataTypes\Decimal\obj\Debug\Decimal.pdb

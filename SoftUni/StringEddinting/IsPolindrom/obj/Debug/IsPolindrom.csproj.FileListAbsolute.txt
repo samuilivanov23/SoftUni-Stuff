@@ -1,0 +1,5 @@
+D:\SoftUni\StringEddinting\IsPolindrom\bin\Debug\IsPolindrom.exe.config
+D:\SoftUni\StringEddinting\IsPolindrom\bin\Debug\IsPolindrom.exe
+D:\SoftUni\StringEddinting\IsPolindrom\bin\Debug\IsPolindrom.pdb
+D:\SoftUni\StringEddinting\IsPolindrom\obj\Debug\IsPolindrom.exe
+D:\SoftUni\StringEddinting\IsPolindrom\obj\Debug\IsPolindrom.pdb

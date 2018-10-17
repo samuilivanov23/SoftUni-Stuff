@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\Searching\bin\Debug\Searching.exe.config
+D:\SoftUni\Algorythms\Searching\bin\Debug\Searching.exe
+D:\SoftUni\Algorythms\Searching\bin\Debug\Searching.pdb
+D:\SoftUni\Algorythms\Searching\obj\Debug\Searching.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\Searching\obj\Debug\Searching.exe
+D:\SoftUni\Algorythms\Searching\obj\Debug\Searching.pdb

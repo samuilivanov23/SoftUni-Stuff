@@ -1,0 +1,11 @@
+C:\SoftUni\Examples\Granica\bin\Debug\netcoreapp2.0\Granica.deps.json
+C:\SoftUni\Examples\Granica\bin\Debug\netcoreapp2.0\Granica.runtimeconfig.json
+C:\SoftUni\Examples\Granica\bin\Debug\netcoreapp2.0\Granica.runtimeconfig.dev.json
+C:\SoftUni\Examples\Granica\bin\Debug\netcoreapp2.0\Granica.dll
+C:\SoftUni\Examples\Granica\bin\Debug\netcoreapp2.0\Granica.pdb
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.csprojResolveAssemblyReference.cache
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.csproj.CoreCompileInputs.cache
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.AssemblyInfoInputs.cache
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.AssemblyInfo.cs
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.dll
+C:\SoftUni\Examples\Granica\obj\Debug\netcoreapp2.0\Granica.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Methods\Empty\bin\Debug\Empty.exe.config
+D:\SoftUni\Methods\Empty\bin\Debug\Empty.exe
+D:\SoftUni\Methods\Empty\bin\Debug\Empty.pdb
+D:\SoftUni\Methods\Empty\obj\Debug\Empty.csprojResolveAssemblyReference.cache
+D:\SoftUni\Methods\Empty\obj\Debug\Empty.exe
+D:\SoftUni\Methods\Empty\obj\Debug\Empty.pdb

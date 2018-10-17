@@ -1,0 +1,5 @@
+D:\SoftUni\FunctionsAndMethods2\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\SoftUni\FunctionsAndMethods2\TriangleArea\bin\Debug\TriangleArea.exe
+D:\SoftUni\FunctionsAndMethods2\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\SoftUni\FunctionsAndMethods2\TriangleArea\obj\Debug\TriangleArea.exe
+D:\SoftUni\FunctionsAndMethods2\TriangleArea\obj\Debug\TriangleArea.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAndGo", "ConsoleApplication1\GetAndGo.csproj", "{B476BCDD-4F13-4EE3-873F-2321930E8EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump_Per_Index", "Jump_Per_Index\Jump_Per_Index.csproj", "{D819A8B3-A67F-4C73-8982-C136F9879130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rehseto_Na_Eretosten", "Rehseto_Na_Eretosten\Rehseto_Na_Eretosten.csproj", "{B2CD2F54-FAFE-4FCD-8468-CC555967BEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summing_Equals_Nums", "Summing_Equals_Nums\Summing_Equals_Nums.csproj", "{C5CFFA78-8B40-4CD2-8FBD-67E080640F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordRegister", "WordRegister\WordRegister.csproj", "{CDB04E3B-50D2-4AC3-BCF1-F58444F88254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicList", "DynamicList\DynamicList.csproj", "{C9E30735-636D-4943-9E02-38561D21B46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B476BCDD-4F13-4EE3-873F-2321930E8EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B476BCDD-4F13-4EE3-873F-2321930E8EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B476BCDD-4F13-4EE3-873F-2321930E8EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B476BCDD-4F13-4EE3-873F-2321930E8EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D819A8B3-A67F-4C73-8982-C136F9879130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D819A8B3-A67F-4C73-8982-C136F9879130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D819A8B3-A67F-4C73-8982-C136F9879130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D819A8B3-A67F-4C73-8982-C136F9879130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CD2F54-FAFE-4FCD-8468-CC555967BEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CD2F54-FAFE-4FCD-8468-CC555967BEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CD2F54-FAFE-4FCD-8468-CC555967BEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CD2F54-FAFE-4FCD-8468-CC555967BEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CFFA78-8B40-4CD2-8FBD-67E080640F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CFFA78-8B40-4CD2-8FBD-67E080640F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CFFA78-8B40-4CD2-8FBD-67E080640F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CFFA78-8B40-4CD2-8FBD-67E080640F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB04E3B-50D2-4AC3-BCF1-F58444F88254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB04E3B-50D2-4AC3-BCF1-F58444F88254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB04E3B-50D2-4AC3-BCF1-F58444F88254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB04E3B-50D2-4AC3-BCF1-F58444F88254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E30735-636D-4943-9E02-38561D21B46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E30735-636D-4943-9E02-38561D21B46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E30735-636D-4943-9E02-38561D21B46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E30735-636D-4943-9E02-38561D21B46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

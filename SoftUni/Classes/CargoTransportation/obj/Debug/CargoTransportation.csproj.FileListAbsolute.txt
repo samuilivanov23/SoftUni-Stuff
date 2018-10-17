@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\CargoTransportation\bin\Debug\CargoTransportation.exe.config
+D:\SoftUni\Classes\CargoTransportation\bin\Debug\CargoTransportation.exe
+D:\SoftUni\Classes\CargoTransportation\bin\Debug\CargoTransportation.pdb
+D:\SoftUni\Classes\CargoTransportation\obj\Debug\CargoTransportation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\CargoTransportation\obj\Debug\CargoTransportation.exe
+D:\SoftUni\Classes\CargoTransportation\obj\Debug\CargoTransportation.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Algorythms\Searching_Sorted_Array\bin\Debug\Searching_Sorted_Array.exe.config
+D:\SoftUni\Algorythms\Searching_Sorted_Array\bin\Debug\Searching_Sorted_Array.exe
+D:\SoftUni\Algorythms\Searching_Sorted_Array\bin\Debug\Searching_Sorted_Array.pdb
+D:\SoftUni\Algorythms\Searching_Sorted_Array\obj\Debug\Searching_Sorted_Array.exe
+D:\SoftUni\Algorythms\Searching_Sorted_Array\obj\Debug\Searching_Sorted_Array.pdb

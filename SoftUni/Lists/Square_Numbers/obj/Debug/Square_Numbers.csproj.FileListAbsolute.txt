@@ -1,0 +1,5 @@
+D:\SoftUni\Lists\Square_Numbers\bin\Debug\Square_Numbers.exe.config
+D:\SoftUni\Lists\Square_Numbers\bin\Debug\Square_Numbers.exe
+D:\SoftUni\Lists\Square_Numbers\bin\Debug\Square_Numbers.pdb
+D:\SoftUni\Lists\Square_Numbers\obj\Debug\Square_Numbers.exe
+D:\SoftUni\Lists\Square_Numbers\obj\Debug\Square_Numbers.pdb

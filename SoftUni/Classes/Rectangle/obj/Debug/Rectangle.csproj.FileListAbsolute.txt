@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\Rectangle\bin\Debug\Rectangle.exe.config
+D:\SoftUni\Classes\Rectangle\bin\Debug\Rectangle.exe
+D:\SoftUni\Classes\Rectangle\bin\Debug\Rectangle.pdb
+D:\SoftUni\Classes\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\Rectangle\obj\Debug\Rectangle.exe
+D:\SoftUni\Classes\Rectangle\obj\Debug\Rectangle.pdb

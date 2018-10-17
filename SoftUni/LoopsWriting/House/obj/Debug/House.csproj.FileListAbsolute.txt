@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsWriting\House\bin\Debug\House.exe.config
+D:\SoftUni\LoopsWriting\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsWriting\House\bin\Debug\House.exe
+D:\SoftUni\LoopsWriting\House\bin\Debug\House.pdb
+D:\SoftUni\LoopsWriting\House\obj\Debug\House.exe
+D:\SoftUni\LoopsWriting\House\obj\Debug\House.pdb

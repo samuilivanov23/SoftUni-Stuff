@@ -1,0 +1,6 @@
+D:\SoftUni\MonTest\ObmennoBiuro\bin\Debug\ObmennoBiuro.exe.config
+D:\SoftUni\MonTest\ObmennoBiuro\bin\Debug\ObmennoBiuro.exe
+D:\SoftUni\MonTest\ObmennoBiuro\bin\Debug\ObmennoBiuro.pdb
+D:\SoftUni\MonTest\ObmennoBiuro\obj\Debug\ObmennoBiuro.csprojResolveAssemblyReference.cache
+D:\SoftUni\MonTest\ObmennoBiuro\obj\Debug\ObmennoBiuro.exe
+D:\SoftUni\MonTest\ObmennoBiuro\obj\Debug\ObmennoBiuro.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\FirstSoftUni\Triangle_Stars\bin\Debug\Triangle_Stars.exe.config
+D:\SoftUni\FirstSoftUni\Triangle_Stars\bin\Debug\Triangle_Stars.exe
+D:\SoftUni\FirstSoftUni\Triangle_Stars\bin\Debug\Triangle_Stars.pdb
+D:\SoftUni\FirstSoftUni\Triangle_Stars\obj\Debug\Triangle_Stars.csprojResolveAssemblyReference.cache
+D:\SoftUni\FirstSoftUni\Triangle_Stars\obj\Debug\Triangle_Stars.exe
+D:\SoftUni\FirstSoftUni\Triangle_Stars\obj\Debug\Triangle_Stars.pdb
+D:\SoftUni\Bsics\Triangle_Stars\bin\Debug\Triangle_Stars.exe.config
+D:\SoftUni\Bsics\Triangle_Stars\obj\Debug\Triangle_Stars.exe
+D:\SoftUni\Bsics\Triangle_Stars\obj\Debug\Triangle_Stars.pdb

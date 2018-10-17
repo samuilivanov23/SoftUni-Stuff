@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lists\ListOfNames_2\bin\Debug\netcoreapp2.0\ListOfNames_2.deps.json
+C:\Users\User\source\repos\Lists\ListOfNames_2\bin\Debug\netcoreapp2.0\ListOfNames_2.runtimeconfig.json
+C:\Users\User\source\repos\Lists\ListOfNames_2\bin\Debug\netcoreapp2.0\ListOfNames_2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists\ListOfNames_2\bin\Debug\netcoreapp2.0\ListOfNames_2.dll
+C:\Users\User\source\repos\Lists\ListOfNames_2\bin\Debug\netcoreapp2.0\ListOfNames_2.pdb
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.dll
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.pdb
+C:\Users\User\source\repos\Lists\ListOfNames_2\obj\Debug\netcoreapp2.0\ListOfNames_2.csprojResolveAssemblyReference.cache

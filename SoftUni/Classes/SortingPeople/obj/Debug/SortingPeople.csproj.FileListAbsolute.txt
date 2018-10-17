@@ -1,0 +1,5 @@
+D:\SoftUni\Classes\SortingPeople\bin\Debug\SortingPeople.exe.config
+D:\SoftUni\Classes\SortingPeople\bin\Debug\SortingPeople.exe
+D:\SoftUni\Classes\SortingPeople\bin\Debug\SortingPeople.pdb
+D:\SoftUni\Classes\SortingPeople\obj\Debug\SortingPeople.exe
+D:\SoftUni\Classes\SortingPeople\obj\Debug\SortingPeople.pdb

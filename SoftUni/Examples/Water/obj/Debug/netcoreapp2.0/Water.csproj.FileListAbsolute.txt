@@ -1,0 +1,11 @@
+C:\SoftUni\Examples\Water\bin\Debug\netcoreapp2.0\Water.deps.json
+C:\SoftUni\Examples\Water\bin\Debug\netcoreapp2.0\Water.runtimeconfig.json
+C:\SoftUni\Examples\Water\bin\Debug\netcoreapp2.0\Water.runtimeconfig.dev.json
+C:\SoftUni\Examples\Water\bin\Debug\netcoreapp2.0\Water.dll
+C:\SoftUni\Examples\Water\bin\Debug\netcoreapp2.0\Water.pdb
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.csprojResolveAssemblyReference.cache
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.csproj.CoreCompileInputs.cache
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.AssemblyInfoInputs.cache
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.AssemblyInfo.cs
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.dll
+C:\SoftUni\Examples\Water\obj\Debug\netcoreapp2.0\Water.pdb

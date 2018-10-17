@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays\MnojestvoOtSumite\bin\Debug\MnojestvoOtSumite.exe.config
+D:\SoftUni\Arrays\MnojestvoOtSumite\bin\Debug\MnojestvoOtSumite.exe
+D:\SoftUni\Arrays\MnojestvoOtSumite\bin\Debug\MnojestvoOtSumite.pdb
+D:\SoftUni\Arrays\MnojestvoOtSumite\obj\Debug\MnojestvoOtSumite.exe
+D:\SoftUni\Arrays\MnojestvoOtSumite\obj\Debug\MnojestvoOtSumite.pdb

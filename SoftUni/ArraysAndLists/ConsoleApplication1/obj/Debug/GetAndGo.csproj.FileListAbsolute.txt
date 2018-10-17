@@ -1,0 +1,6 @@
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\obj\Debug\GetAndGo.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\ArraysAndLists\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

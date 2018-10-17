@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Boolean\bin\Debug\Boolean.exe.config
+D:\SoftUni\DataTypes\Boolean\bin\Debug\Boolean.exe
+D:\SoftUni\DataTypes\Boolean\bin\Debug\Boolean.pdb
+D:\SoftUni\DataTypes\Boolean\obj\Debug\Boolean.exe
+D:\SoftUni\DataTypes\Boolean\obj\Debug\Boolean.pdb

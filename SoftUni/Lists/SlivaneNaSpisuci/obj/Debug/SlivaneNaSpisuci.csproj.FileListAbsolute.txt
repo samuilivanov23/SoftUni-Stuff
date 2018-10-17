@@ -1,0 +1,5 @@
+D:\SoftUni\Lists\SlivaneNaSpisuci\bin\Debug\SlivaneNaSpisuci.exe.config
+D:\SoftUni\Lists\SlivaneNaSpisuci\bin\Debug\SlivaneNaSpisuci.exe
+D:\SoftUni\Lists\SlivaneNaSpisuci\bin\Debug\SlivaneNaSpisuci.pdb
+D:\SoftUni\Lists\SlivaneNaSpisuci\obj\Debug\SlivaneNaSpisuci.exe
+D:\SoftUni\Lists\SlivaneNaSpisuci\obj\Debug\SlivaneNaSpisuci.pdb

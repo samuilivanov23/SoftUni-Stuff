@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\Combinations\bin\Debug\Combinations.exe.config
+D:\SoftUni\Algorythms\Combinations\bin\Debug\Combinations.exe
+D:\SoftUni\Algorythms\Combinations\bin\Debug\Combinations.pdb
+D:\SoftUni\Algorythms\Combinations\obj\Debug\Combinations.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\Combinations\obj\Debug\Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\Combinations\obj\Debug\Combinations.exe
+D:\SoftUni\Algorythms\Combinations\obj\Debug\Combinations.pdb

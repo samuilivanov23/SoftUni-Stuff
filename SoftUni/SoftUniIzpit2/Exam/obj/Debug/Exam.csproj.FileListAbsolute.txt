@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUniIzpit2\Exam\bin\Debug\Exam.exe.config
+D:\SoftUni\SoftUniIzpit2\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUniIzpit2\Exam\bin\Debug\Exam.exe
+D:\SoftUni\SoftUniIzpit2\Exam\bin\Debug\Exam.pdb
+D:\SoftUni\SoftUniIzpit2\Exam\obj\Debug\Exam.exe
+D:\SoftUni\SoftUniIzpit2\Exam\obj\Debug\Exam.pdb

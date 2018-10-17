@@ -1,0 +1,11 @@
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.exe.config
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.exe
+D:\SoftUni\FirstSoftUni\Hello\bin\Debug\Hello.pdb
+D:\SoftUni\FirstSoftUni\Hello\obj\Debug\Hello.exe
+D:\SoftUni\FirstSoftUni\Hello\obj\Debug\Hello.pdb
+D:\SoftUni\Bsics\Hello\bin\Debug\Hello.exe.config
+D:\SoftUni\Bsics\Hello\obj\Debug\Hello.exe
+D:\SoftUni\Bsics\Hello\obj\Debug\Hello.pdb
+D:\SoftUni\Bsics\Hello\bin\Debug\Hello.exe
+D:\SoftUni\Bsics\Hello\bin\Debug\Hello.pdb
+D:\SoftUni\Bsics\Hello\obj\Debug\Square_Stars.csprojResolveAssemblyReference.cache

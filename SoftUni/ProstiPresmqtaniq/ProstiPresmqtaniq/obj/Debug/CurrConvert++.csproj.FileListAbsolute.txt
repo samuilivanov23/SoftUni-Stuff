@@ -1,0 +1,6 @@
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\bin\Debug\ProstiPresmqtaniq.exe.config
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\bin\Debug\ProstiPresmqtaniq.exe
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\bin\Debug\ProstiPresmqtaniq.pdb
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\obj\Debug\CurrConvert++.csprojResolveAssemblyReference.cache
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\obj\Debug\ProstiPresmqtaniq.exe
+D:\SoftUni\ProstiPresmqtaniq\ProstiPresmqtaniq\obj\Debug\ProstiPresmqtaniq.pdb

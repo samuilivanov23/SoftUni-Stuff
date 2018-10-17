@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays\Smth\bin\Debug\Smth.exe.config
+D:\SoftUni\Arrays\Smth\bin\Debug\Smth.exe
+D:\SoftUni\Arrays\Smth\bin\Debug\Smth.pdb
+D:\SoftUni\Arrays\Smth\obj\Debug\Smth.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays\Smth\obj\Debug\Smth.exe
+D:\SoftUni\Arrays\Smth\obj\Debug\Smth.pdb

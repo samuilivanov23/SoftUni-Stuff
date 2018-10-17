@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays\SguvaneNaMasiv\bin\Debug\SguvaneNaMasiv.exe.config
+D:\SoftUni\Arrays\SguvaneNaMasiv\bin\Debug\SguvaneNaMasiv.exe
+D:\SoftUni\Arrays\SguvaneNaMasiv\bin\Debug\SguvaneNaMasiv.pdb
+D:\SoftUni\Arrays\SguvaneNaMasiv\obj\Debug\SguvaneNaMasiv.exe
+D:\SoftUni\Arrays\SguvaneNaMasiv\obj\Debug\SguvaneNaMasiv.pdb
+D:\SoftUni\Arrays\SguvaneNaMasiv\obj\Debug\SguvaneNaMasiv.csprojResolveAssemblyReference.cache

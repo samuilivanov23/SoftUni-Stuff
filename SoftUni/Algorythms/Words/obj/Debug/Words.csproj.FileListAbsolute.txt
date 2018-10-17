@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\Words\bin\Debug\Words.exe.config
+D:\SoftUni\Algorythms\Words\bin\Debug\Words.exe
+D:\SoftUni\Algorythms\Words\bin\Debug\Words.pdb
+D:\SoftUni\Algorythms\Words\obj\Debug\Words.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\Words\obj\Debug\Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\Words\obj\Debug\Words.exe
+D:\SoftUni\Algorythms\Words\obj\Debug\Words.pdb

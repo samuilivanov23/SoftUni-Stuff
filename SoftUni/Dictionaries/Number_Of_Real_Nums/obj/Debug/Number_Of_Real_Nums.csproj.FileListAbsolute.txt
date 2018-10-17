@@ -1,0 +1,6 @@
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\bin\Debug\Number_Of_Real_Nums.exe.config
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\bin\Debug\Number_Of_Real_Nums.exe
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\bin\Debug\Number_Of_Real_Nums.pdb
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\obj\Debug\Number_Of_Real_Nums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\obj\Debug\Number_Of_Real_Nums.exe
+D:\SoftUni\Dictionaries\Number_Of_Real_Nums\obj\Debug\Number_Of_Real_Nums.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Lists\Remove_Negative_Elements\bin\Debug\Remove_Negative_Elements.exe.config
+D:\SoftUni\Lists\Remove_Negative_Elements\bin\Debug\Remove_Negative_Elements.exe
+D:\SoftUni\Lists\Remove_Negative_Elements\bin\Debug\Remove_Negative_Elements.pdb
+D:\SoftUni\Lists\Remove_Negative_Elements\obj\Debug\Remove_Negative_Elements.exe
+D:\SoftUni\Lists\Remove_Negative_Elements\obj\Debug\Remove_Negative_Elements.pdb

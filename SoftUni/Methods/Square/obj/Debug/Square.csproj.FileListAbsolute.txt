@@ -1,0 +1,5 @@
+D:\SoftUni\Methods\Square\bin\Debug\Square.exe.config
+D:\SoftUni\Methods\Square\bin\Debug\Square.exe
+D:\SoftUni\Methods\Square\bin\Debug\Square.pdb
+D:\SoftUni\Methods\Square\obj\Debug\Square.exe
+D:\SoftUni\Methods\Square\obj\Debug\Square.pdb

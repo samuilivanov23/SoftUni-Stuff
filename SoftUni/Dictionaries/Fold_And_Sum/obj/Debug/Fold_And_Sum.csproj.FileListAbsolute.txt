@@ -1,0 +1,6 @@
+D:\SoftUni\Dictionaries\Fold_And_Sum\bin\Debug\Fold_And_Sum.exe.config
+D:\SoftUni\Dictionaries\Fold_And_Sum\bin\Debug\Fold_And_Sum.exe
+D:\SoftUni\Dictionaries\Fold_And_Sum\bin\Debug\Fold_And_Sum.pdb
+D:\SoftUni\Dictionaries\Fold_And_Sum\obj\Debug\Fold_And_Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Dictionaries\Fold_And_Sum\obj\Debug\Fold_And_Sum.exe
+D:\SoftUni\Dictionaries\Fold_And_Sum\obj\Debug\Fold_And_Sum.pdb

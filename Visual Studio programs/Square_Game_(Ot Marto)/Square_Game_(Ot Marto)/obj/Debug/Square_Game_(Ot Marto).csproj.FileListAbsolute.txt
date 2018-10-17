@@ -1,0 +1,6 @@
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\bin\Debug\Square_Game_(Ot Marto).exe.config
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\bin\Debug\Square_Game_(Ot Marto).exe
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\bin\Debug\Square_Game_(Ot Marto).pdb
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\obj\Debug\Square_Game_(Ot Marto).csprojResolveAssemblyReference.cache
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\obj\Debug\Square_Game_(Ot Marto).exe
+D:\Visual Studio programs\Square_Game_(Ot Marto)\Square_Game_(Ot Marto)\obj\Debug\Square_Game_(Ot Marto).pdb

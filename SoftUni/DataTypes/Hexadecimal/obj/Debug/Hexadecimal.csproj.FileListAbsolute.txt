@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Hexadecimal\bin\Debug\Hexadecimal.exe.config
+D:\SoftUni\DataTypes\Hexadecimal\bin\Debug\Hexadecimal.exe
+D:\SoftUni\DataTypes\Hexadecimal\bin\Debug\Hexadecimal.pdb
+D:\SoftUni\DataTypes\Hexadecimal\obj\Debug\Hexadecimal.exe
+D:\SoftUni\DataTypes\Hexadecimal\obj\Debug\Hexadecimal.pdb

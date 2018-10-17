@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni_Izpit2\First\bin\Debug\First.exe.config
+D:\SoftUni\SoftUni_Izpit2\First\bin\Debug\First.exe
+D:\SoftUni\SoftUni_Izpit2\First\bin\Debug\First.pdb
+D:\SoftUni\SoftUni_Izpit2\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni_Izpit2\First\obj\Debug\First.exe
+D:\SoftUni\SoftUni_Izpit2\First\obj\Debug\First.pdb

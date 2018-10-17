@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\WordMaker\bin\Debug\WordMaker.exe.config
+D:\SoftUni\DataTypes\WordMaker\bin\Debug\WordMaker.exe
+D:\SoftUni\DataTypes\WordMaker\bin\Debug\WordMaker.pdb
+D:\SoftUni\DataTypes\WordMaker\obj\Debug\WordMaker.exe
+D:\SoftUni\DataTypes\WordMaker\obj\Debug\WordMaker.pdb

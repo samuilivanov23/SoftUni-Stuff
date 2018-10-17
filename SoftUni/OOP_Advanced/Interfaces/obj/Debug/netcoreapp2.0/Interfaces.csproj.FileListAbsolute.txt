@@ -1,0 +1,11 @@
+D:\SoftUni\OOP_Advanced\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.deps.json
+D:\SoftUni\OOP_Advanced\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.json
+D:\SoftUni\OOP_Advanced\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.dev.json
+D:\SoftUni\OOP_Advanced\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.dll
+D:\SoftUni\OOP_Advanced\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.pdb
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfoInputs.cache
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfo.cs
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.dll
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.pdb
+D:\SoftUni\OOP_Advanced\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csprojAssemblyReference.cache

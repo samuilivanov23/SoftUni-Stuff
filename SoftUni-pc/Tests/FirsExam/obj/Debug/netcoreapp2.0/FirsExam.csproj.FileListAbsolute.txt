@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tests\FirsExam\bin\Debug\netcoreapp2.0\FirsExam.deps.json
+C:\Users\User\source\repos\Tests\FirsExam\bin\Debug\netcoreapp2.0\FirsExam.runtimeconfig.json
+C:\Users\User\source\repos\Tests\FirsExam\bin\Debug\netcoreapp2.0\FirsExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\Tests\FirsExam\bin\Debug\netcoreapp2.0\FirsExam.dll
+C:\Users\User\source\repos\Tests\FirsExam\bin\Debug\netcoreapp2.0\FirsExam.pdb
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.AssemblyInfo.cs
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.dll
+C:\Users\User\source\repos\Tests\FirsExam\obj\Debug\netcoreapp2.0\FirsExam.pdb

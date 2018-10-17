@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Elevator\bin\Debug\Elevator.exe.config
+D:\SoftUni\DataTypes\Elevator\bin\Debug\Elevator.exe
+D:\SoftUni\DataTypes\Elevator\bin\Debug\Elevator.pdb
+D:\SoftUni\DataTypes\Elevator\obj\Debug\Elevator.exe
+D:\SoftUni\DataTypes\Elevator\obj\Debug\Elevator.pdb

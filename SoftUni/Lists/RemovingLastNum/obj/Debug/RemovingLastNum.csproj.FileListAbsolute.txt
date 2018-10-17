@@ -1,0 +1,6 @@
+D:\SoftUni\Lists\RemovingLastNum\bin\Debug\RemovingLastNum.exe.config
+D:\SoftUni\Lists\RemovingLastNum\bin\Debug\RemovingLastNum.exe
+D:\SoftUni\Lists\RemovingLastNum\bin\Debug\RemovingLastNum.pdb
+D:\SoftUni\Lists\RemovingLastNum\obj\Debug\RemovingLastNum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lists\RemovingLastNum\obj\Debug\RemovingLastNum.exe
+D:\SoftUni\Lists\RemovingLastNum\obj\Debug\RemovingLastNum.pdb

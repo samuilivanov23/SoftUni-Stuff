@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays\ArrayStatistacs\bin\Debug\ArrayStatistacs.exe.config
+D:\SoftUni\Arrays\ArrayStatistacs\bin\Debug\ArrayStatistacs.exe
+D:\SoftUni\Arrays\ArrayStatistacs\bin\Debug\ArrayStatistacs.pdb
+D:\SoftUni\Arrays\ArrayStatistacs\obj\Debug\ArrayStatistacs.exe
+D:\SoftUni\Arrays\ArrayStatistacs\obj\Debug\ArrayStatistacs.pdb

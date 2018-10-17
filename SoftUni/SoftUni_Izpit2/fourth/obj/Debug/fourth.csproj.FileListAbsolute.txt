@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni_Izpit2\fourth\bin\Debug\fourth.exe.config
+D:\SoftUni\SoftUni_Izpit2\fourth\bin\Debug\fourth.exe
+D:\SoftUni\SoftUni_Izpit2\fourth\bin\Debug\fourth.pdb
+D:\SoftUni\SoftUni_Izpit2\fourth\obj\Debug\fourth.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni_Izpit2\fourth\obj\Debug\fourth.exe
+D:\SoftUni\SoftUni_Izpit2\fourth\obj\Debug\fourth.pdb

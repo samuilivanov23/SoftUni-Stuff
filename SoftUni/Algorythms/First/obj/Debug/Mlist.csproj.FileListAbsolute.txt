@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\First\bin\Debug\First.exe.config
+D:\SoftUni\Algorythms\First\obj\Debug\First.exe
+D:\SoftUni\Algorythms\First\obj\Debug\First.pdb
+D:\SoftUni\Algorythms\First\bin\Debug\First.exe
+D:\SoftUni\Algorythms\First\bin\Debug\First.pdb
+D:\SoftUni\Algorythms\First\obj\Debug\Mlist.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\First\obj\Debug\Mlist.csproj.CoreCompileInputs.cache

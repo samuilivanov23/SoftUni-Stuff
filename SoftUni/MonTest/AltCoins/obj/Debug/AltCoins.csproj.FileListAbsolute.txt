@@ -1,0 +1,5 @@
+D:\SoftUni\MonTest\AltCoins\bin\Debug\AltCoins.exe.config
+D:\SoftUni\MonTest\AltCoins\bin\Debug\AltCoins.exe
+D:\SoftUni\MonTest\AltCoins\bin\Debug\AltCoins.pdb
+D:\SoftUni\MonTest\AltCoins\obj\Debug\AltCoins.exe
+D:\SoftUni\MonTest\AltCoins\obj\Debug\AltCoins.pdb

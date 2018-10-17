@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\SpecialNum\bin\Debug\SpecialNum.exe.config
+D:\SoftUni\DataTypes\SpecialNum\bin\Debug\SpecialNum.exe
+D:\SoftUni\DataTypes\SpecialNum\bin\Debug\SpecialNum.pdb
+D:\SoftUni\DataTypes\SpecialNum\obj\Debug\SpecialNum.exe
+D:\SoftUni\DataTypes\SpecialNum\obj\Debug\SpecialNum.pdb

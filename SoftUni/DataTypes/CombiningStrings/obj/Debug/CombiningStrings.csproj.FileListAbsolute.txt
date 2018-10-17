@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\CombiningStrings\bin\Debug\CombiningStrings.exe.config
+D:\SoftUni\DataTypes\CombiningStrings\bin\Debug\CombiningStrings.exe
+D:\SoftUni\DataTypes\CombiningStrings\bin\Debug\CombiningStrings.pdb
+D:\SoftUni\DataTypes\CombiningStrings\obj\Debug\CombiningStrings.exe
+D:\SoftUni\DataTypes\CombiningStrings\obj\Debug\CombiningStrings.pdb

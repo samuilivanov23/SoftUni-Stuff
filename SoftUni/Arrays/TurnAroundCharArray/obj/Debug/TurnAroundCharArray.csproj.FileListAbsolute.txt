@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays\TurnAroundCharArray\bin\Debug\TurnAroundCharArray.exe.config
+D:\SoftUni\Arrays\TurnAroundCharArray\bin\Debug\TurnAroundCharArray.exe
+D:\SoftUni\Arrays\TurnAroundCharArray\bin\Debug\TurnAroundCharArray.pdb
+D:\SoftUni\Arrays\TurnAroundCharArray\obj\Debug\TurnAroundCharArray.exe
+D:\SoftUni\Arrays\TurnAroundCharArray\obj\Debug\TurnAroundCharArray.pdb

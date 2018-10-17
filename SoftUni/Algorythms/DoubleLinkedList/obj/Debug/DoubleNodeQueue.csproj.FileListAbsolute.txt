@@ -1,0 +1,6 @@
+D:\SoftUni\Algorythms\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+D:\SoftUni\Algorythms\DoubleLinkedList\obj\Debug\DoubleNodeQueue.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorythms\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+D:\SoftUni\Algorythms\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+D:\SoftUni\Algorythms\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+D:\SoftUni\Algorythms\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb

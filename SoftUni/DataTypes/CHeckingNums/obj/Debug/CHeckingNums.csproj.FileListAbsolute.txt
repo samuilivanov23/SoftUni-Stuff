@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\CHeckingNums\bin\Debug\CHeckingNums.exe.config
+D:\SoftUni\DataTypes\CHeckingNums\bin\Debug\CHeckingNums.exe
+D:\SoftUni\DataTypes\CHeckingNums\bin\Debug\CHeckingNums.pdb
+D:\SoftUni\DataTypes\CHeckingNums\obj\Debug\CHeckingNums.exe
+D:\SoftUni\DataTypes\CHeckingNums\obj\Debug\CHeckingNums.pdb

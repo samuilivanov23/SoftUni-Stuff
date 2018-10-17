@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays\Sklad\bin\Debug\Sklad.exe.config
+D:\SoftUni\Arrays\Sklad\bin\Debug\Sklad.exe
+D:\SoftUni\Arrays\Sklad\bin\Debug\Sklad.pdb
+D:\SoftUni\Arrays\Sklad\obj\Debug\Sklad.exe
+D:\SoftUni\Arrays\Sklad\obj\Debug\Sklad.pdb

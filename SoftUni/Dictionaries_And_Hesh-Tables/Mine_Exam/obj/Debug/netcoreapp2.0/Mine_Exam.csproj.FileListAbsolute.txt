@@ -1,0 +1,11 @@
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\bin\Debug\netcoreapp2.0\Mine_Exam.deps.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\bin\Debug\netcoreapp2.0\Mine_Exam.runtimeconfig.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\bin\Debug\netcoreapp2.0\Mine_Exam.runtimeconfig.dev.json
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\bin\Debug\netcoreapp2.0\Mine_Exam.dll
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\bin\Debug\netcoreapp2.0\Mine_Exam.pdb
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.csprojResolveAssemblyReference.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.csproj.CoreCompileInputs.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.AssemblyInfoInputs.cache
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.AssemblyInfo.cs
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.dll
+C:\SoftUni\Dictionaries_And_Hesh-Tables\Mine_Exam\obj\Debug\netcoreapp2.0\Mine_Exam.pdb

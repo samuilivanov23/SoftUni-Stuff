@@ -1,0 +1,1 @@
+D:\SoftUni\Algorythms\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config

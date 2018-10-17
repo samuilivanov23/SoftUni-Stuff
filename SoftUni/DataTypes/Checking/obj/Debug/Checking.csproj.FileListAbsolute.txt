@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Checking\bin\Debug\Checking.exe.config
+D:\SoftUni\DataTypes\Checking\bin\Debug\Checking.exe
+D:\SoftUni\DataTypes\Checking\bin\Debug\Checking.pdb
+D:\SoftUni\DataTypes\Checking\obj\Debug\Checking.exe
+D:\SoftUni\DataTypes\Checking\obj\Debug\Checking.pdb

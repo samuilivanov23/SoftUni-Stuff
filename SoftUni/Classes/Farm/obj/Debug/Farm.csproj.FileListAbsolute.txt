@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\Farm\bin\Debug\Farm.exe.config
+D:\SoftUni\Classes\Farm\bin\Debug\Farm.exe
+D:\SoftUni\Classes\Farm\bin\Debug\Farm.pdb
+D:\SoftUni\Classes\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\Farm\obj\Debug\Farm.exe
+D:\SoftUni\Classes\Farm\obj\Debug\Farm.pdb

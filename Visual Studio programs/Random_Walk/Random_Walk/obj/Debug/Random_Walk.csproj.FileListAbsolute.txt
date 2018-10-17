@@ -1,0 +1,6 @@
+D:\Visual Studio programs\Random_Walk\Random_Walk\bin\Debug\Random_Walk.exe.config
+D:\Visual Studio programs\Random_Walk\Random_Walk\bin\Debug\Random_Walk.exe
+D:\Visual Studio programs\Random_Walk\Random_Walk\bin\Debug\Random_Walk.pdb
+D:\Visual Studio programs\Random_Walk\Random_Walk\obj\Debug\Random_Walk.exe
+D:\Visual Studio programs\Random_Walk\Random_Walk\obj\Debug\Random_Walk.pdb
+D:\Visual Studio programs\Random_Walk\Random_Walk\obj\Debug\Random_Walk.csprojResolveAssemblyReference.cache

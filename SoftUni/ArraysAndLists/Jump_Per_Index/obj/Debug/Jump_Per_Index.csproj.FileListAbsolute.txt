@@ -1,0 +1,6 @@
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\bin\Debug\Jump_Per_Index.exe.config
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\bin\Debug\Jump_Per_Index.exe
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\bin\Debug\Jump_Per_Index.pdb
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\obj\Debug\Jump_Per_Index.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\obj\Debug\Jump_Per_Index.exe
+D:\SoftUni\ArraysAndLists\Jump_Per_Index\obj\Debug\Jump_Per_Index.pdb

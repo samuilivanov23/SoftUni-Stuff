@@ -1,0 +1,6 @@
+D:\SoftUni\DataTypes\Centuries\bin\Debug\Centuries.exe.config
+D:\SoftUni\DataTypes\Centuries\bin\Debug\Centuries.exe
+D:\SoftUni\DataTypes\Centuries\bin\Debug\Centuries.pdb
+D:\SoftUni\DataTypes\Centuries\obj\Debug\Centuries.csprojResolveAssemblyReference.cache
+D:\SoftUni\DataTypes\Centuries\obj\Debug\Centuries.exe
+D:\SoftUni\DataTypes\Centuries\obj\Debug\Centuries.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.csprojResolveAssemblyReference.cache
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.csproj.CoreCompileInputs.cache
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.AssemblyInfoInputs.cache
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.AssemblyInfo.cs
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\bin\Debug\netcoreapp2.0\Most_Often_Spotted_Number.deps.json
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\bin\Debug\netcoreapp2.0\Most_Often_Spotted_Number.runtimeconfig.json
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\bin\Debug\netcoreapp2.0\Most_Often_Spotted_Number.runtimeconfig.dev.json
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\bin\Debug\netcoreapp2.0\Most_Often_Spotted_Number.dll
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\bin\Debug\netcoreapp2.0\Most_Often_Spotted_Number.pdb
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.dll
+C:\SoftUni\Arrays\Most_Often_Spotted_Number\obj\Debug\netcoreapp2.0\Most_Often_Spotted_Number.pdb

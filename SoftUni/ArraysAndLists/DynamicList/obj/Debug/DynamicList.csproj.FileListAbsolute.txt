@@ -1,0 +1,6 @@
+D:\SoftUni\ArraysAndLists\DynamicList\bin\Debug\DynamicList.exe.config
+D:\SoftUni\ArraysAndLists\DynamicList\bin\Debug\DynamicList.exe
+D:\SoftUni\ArraysAndLists\DynamicList\bin\Debug\DynamicList.pdb
+D:\SoftUni\ArraysAndLists\DynamicList\obj\Debug\DynamicList.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArraysAndLists\DynamicList\obj\Debug\DynamicList.exe
+D:\SoftUni\ArraysAndLists\DynamicList\obj\Debug\DynamicList.pdb

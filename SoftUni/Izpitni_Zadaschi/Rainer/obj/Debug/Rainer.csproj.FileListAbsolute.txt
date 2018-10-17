@@ -1,0 +1,6 @@
+D:\SoftUni\Izpitni_Zadaschi\Rainer\bin\Debug\Rainer.exe.config
+D:\SoftUni\Izpitni_Zadaschi\Rainer\bin\Debug\Rainer.exe
+D:\SoftUni\Izpitni_Zadaschi\Rainer\bin\Debug\Rainer.pdb
+D:\SoftUni\Izpitni_Zadaschi\Rainer\obj\Debug\Rainer.exe
+D:\SoftUni\Izpitni_Zadaschi\Rainer\obj\Debug\Rainer.pdb
+D:\SoftUni\Izpitni_Zadaschi\Rainer\obj\Debug\Rainer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\bin\Debug\Rehseto_Na_Eretosten.exe.config
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\bin\Debug\Rehseto_Na_Eretosten.exe
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\bin\Debug\Rehseto_Na_Eretosten.pdb
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\obj\Debug\Rehseto_Na_Eretosten.csprojResolveAssemblyReference.cache
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\obj\Debug\Rehseto_Na_Eretosten.exe
+D:\SoftUni\ArraysAndLists\Rehseto_Na_Eretosten\obj\Debug\Rehseto_Na_Eretosten.pdb

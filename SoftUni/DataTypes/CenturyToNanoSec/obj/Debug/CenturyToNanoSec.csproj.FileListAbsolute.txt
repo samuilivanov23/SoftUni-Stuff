@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\CenturyToNanoSec\bin\Debug\CenturyToNanoSec.exe.config
+D:\SoftUni\DataTypes\CenturyToNanoSec\bin\Debug\CenturyToNanoSec.exe
+D:\SoftUni\DataTypes\CenturyToNanoSec\bin\Debug\CenturyToNanoSec.pdb
+D:\SoftUni\DataTypes\CenturyToNanoSec\obj\Debug\CenturyToNanoSec.exe
+D:\SoftUni\DataTypes\CenturyToNanoSec\obj\Debug\CenturyToNanoSec.pdb

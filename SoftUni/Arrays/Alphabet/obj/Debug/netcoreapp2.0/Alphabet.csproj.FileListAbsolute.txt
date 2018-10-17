@@ -1,0 +1,11 @@
+C:\SoftUni\Arrays\Alphabet\bin\Debug\netcoreapp2.0\Alphabet.deps.json
+C:\SoftUni\Arrays\Alphabet\bin\Debug\netcoreapp2.0\Alphabet.runtimeconfig.json
+C:\SoftUni\Arrays\Alphabet\bin\Debug\netcoreapp2.0\Alphabet.runtimeconfig.dev.json
+C:\SoftUni\Arrays\Alphabet\bin\Debug\netcoreapp2.0\Alphabet.dll
+C:\SoftUni\Arrays\Alphabet\bin\Debug\netcoreapp2.0\Alphabet.pdb
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.csprojResolveAssemblyReference.cache
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.csproj.CoreCompileInputs.cache
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.AssemblyInfoInputs.cache
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.AssemblyInfo.cs
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.dll
+C:\SoftUni\Arrays\Alphabet\obj\Debug\netcoreapp2.0\Alphabet.pdb

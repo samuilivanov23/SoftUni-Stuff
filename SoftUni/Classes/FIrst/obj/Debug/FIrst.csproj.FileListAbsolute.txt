@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\FIrst\bin\Debug\FIrst.exe.config
+D:\SoftUni\Classes\FIrst\bin\Debug\FIrst.exe
+D:\SoftUni\Classes\FIrst\bin\Debug\FIrst.pdb
+D:\SoftUni\Classes\FIrst\obj\Debug\FIrst.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\FIrst\obj\Debug\FIrst.exe
+D:\SoftUni\Classes\FIrst\obj\Debug\FIrst.pdb

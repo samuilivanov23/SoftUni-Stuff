@@ -1,0 +1,6 @@
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\bin\Debug\Sortirane_na_massiv.exe.config
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\bin\Debug\Sortirane_na_massiv.exe
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\bin\Debug\Sortirane_na_massiv.pdb
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\obj\Debug\Sortirane_na_massiv.csprojResolveAssemblyReference.cache
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\obj\Debug\Sortirane_na_massiv.exe
+D:\Visual Studio programs\Sortirane_na_massiv\Sortirane_na_massiv\obj\Debug\Sortirane_na_massiv.pdb

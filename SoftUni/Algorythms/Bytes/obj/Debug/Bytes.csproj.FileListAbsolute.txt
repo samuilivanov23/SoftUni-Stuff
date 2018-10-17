@@ -1,0 +1,7 @@
+D:\SoftUni\Algorythms\Bytes\bin\Debug\Bytes.exe.config
+D:\SoftUni\Algorythms\Bytes\bin\Debug\Bytes.exe
+D:\SoftUni\Algorythms\Bytes\bin\Debug\Bytes.pdb
+D:\SoftUni\Algorythms\Bytes\obj\Debug\Bytes.csprojAssemblyReference.cache
+D:\SoftUni\Algorythms\Bytes\obj\Debug\Bytes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Algorythms\Bytes\obj\Debug\Bytes.exe
+D:\SoftUni\Algorythms\Bytes\obj\Debug\Bytes.pdb

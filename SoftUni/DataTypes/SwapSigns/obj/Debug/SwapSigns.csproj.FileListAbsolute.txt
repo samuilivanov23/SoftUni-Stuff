@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\SwapSigns\bin\Debug\SwapSigns.exe.config
+D:\SoftUni\DataTypes\SwapSigns\bin\Debug\SwapSigns.exe
+D:\SoftUni\DataTypes\SwapSigns\bin\Debug\SwapSigns.pdb
+D:\SoftUni\DataTypes\SwapSigns\obj\Debug\SwapSigns.exe
+D:\SoftUni\DataTypes\SwapSigns\obj\Debug\SwapSigns.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\LoopsWriting\SquareStars\bin\Debug\SquareStars.exe.config
+D:\SoftUni\LoopsWriting\SquareStars\bin\Debug\SquareStars.exe
+D:\SoftUni\LoopsWriting\SquareStars\bin\Debug\SquareStars.pdb
+D:\SoftUni\LoopsWriting\SquareStars\obj\Debug\SquareStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\LoopsWriting\SquareStars\obj\Debug\SquareStars.exe
+D:\SoftUni\LoopsWriting\SquareStars\obj\Debug\SquareStars.pdb

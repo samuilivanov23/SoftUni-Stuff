@@ -1,0 +1,11 @@
+C:\SoftUni\Examples\Temperature_Gues\bin\Debug\netcoreapp2.0\Temperature_Gues.deps.json
+C:\SoftUni\Examples\Temperature_Gues\bin\Debug\netcoreapp2.0\Temperature_Gues.runtimeconfig.json
+C:\SoftUni\Examples\Temperature_Gues\bin\Debug\netcoreapp2.0\Temperature_Gues.runtimeconfig.dev.json
+C:\SoftUni\Examples\Temperature_Gues\bin\Debug\netcoreapp2.0\Temperature_Gues.dll
+C:\SoftUni\Examples\Temperature_Gues\bin\Debug\netcoreapp2.0\Temperature_Gues.pdb
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.csprojResolveAssemblyReference.cache
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.csproj.CoreCompileInputs.cache
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.AssemblyInfoInputs.cache
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.AssemblyInfo.cs
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.dll
+C:\SoftUni\Examples\Temperature_Gues\obj\Debug\netcoreapp2.0\Temperature_Gues.pdb

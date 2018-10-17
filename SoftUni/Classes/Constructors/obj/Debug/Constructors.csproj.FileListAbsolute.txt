@@ -1,0 +1,6 @@
+D:\SoftUni\Classes\Constructors\bin\Debug\Constructors.exe.config
+D:\SoftUni\Classes\Constructors\bin\Debug\Constructors.exe
+D:\SoftUni\Classes\Constructors\bin\Debug\Constructors.pdb
+D:\SoftUni\Classes\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+D:\SoftUni\Classes\Constructors\obj\Debug\Constructors.exe
+D:\SoftUni\Classes\Constructors\obj\Debug\Constructors.pdb

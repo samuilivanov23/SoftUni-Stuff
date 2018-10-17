@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\BireBure\bin\Debug\BireBure.exe.config
+D:\SoftUni\DataTypes\BireBure\bin\Debug\BireBure.exe
+D:\SoftUni\DataTypes\BireBure\bin\Debug\BireBure.pdb
+D:\SoftUni\DataTypes\BireBure\obj\Debug\BireBure.exe
+D:\SoftUni\DataTypes\BireBure\obj\Debug\BireBure.pdb

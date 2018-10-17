@@ -1,0 +1,6 @@
+D:\SoftUni\DataTypes\Speed\bin\Debug\Speed.exe.config
+D:\SoftUni\DataTypes\Speed\bin\Debug\Speed.exe
+D:\SoftUni\DataTypes\Speed\bin\Debug\Speed.pdb
+D:\SoftUni\DataTypes\Speed\obj\Debug\Speed.csprojResolveAssemblyReference.cache
+D:\SoftUni\DataTypes\Speed\obj\Debug\Speed.exe
+D:\SoftUni\DataTypes\Speed\obj\Debug\Speed.pdb

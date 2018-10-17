@@ -1,0 +1,6 @@
+D:\SoftUni\StringEddinting\NakovExam\bin\Debug\NakovExam.exe.config
+D:\SoftUni\StringEddinting\NakovExam\bin\Debug\NakovExam.exe
+D:\SoftUni\StringEddinting\NakovExam\bin\Debug\NakovExam.pdb
+D:\SoftUni\StringEddinting\NakovExam\obj\Debug\NakovExam.exe
+D:\SoftUni\StringEddinting\NakovExam\obj\Debug\NakovExam.pdb
+D:\SoftUni\StringEddinting\NakovExam\obj\Debug\NakovExam.csprojResolveAssemblyReference.cache

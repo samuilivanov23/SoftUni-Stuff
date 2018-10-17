@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Decrypt\bin\Debug\Decrypt.exe.config
+D:\SoftUni\DataTypes\Decrypt\bin\Debug\Decrypt.exe
+D:\SoftUni\DataTypes\Decrypt\bin\Debug\Decrypt.pdb
+D:\SoftUni\DataTypes\Decrypt\obj\Debug\Decrypt.exe
+D:\SoftUni\DataTypes\Decrypt\obj\Debug\Decrypt.pdb

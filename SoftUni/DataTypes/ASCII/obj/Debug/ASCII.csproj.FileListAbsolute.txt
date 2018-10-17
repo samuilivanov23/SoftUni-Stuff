@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\ASCII\bin\Debug\ASCII.exe.config
+D:\SoftUni\DataTypes\ASCII\bin\Debug\ASCII.exe
+D:\SoftUni\DataTypes\ASCII\bin\Debug\ASCII.pdb
+D:\SoftUni\DataTypes\ASCII\obj\Debug\ASCII.exe
+D:\SoftUni\DataTypes\ASCII\obj\Debug\ASCII.pdb

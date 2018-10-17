@@ -1,0 +1,5 @@
+D:\SoftUni\DataTypes\Builder\bin\Debug\Builder.exe.config
+D:\SoftUni\DataTypes\Builder\bin\Debug\Builder.exe
+D:\SoftUni\DataTypes\Builder\bin\Debug\Builder.pdb
+D:\SoftUni\DataTypes\Builder\obj\Debug\Builder.exe
+D:\SoftUni\DataTypes\Builder\obj\Debug\Builder.pdb

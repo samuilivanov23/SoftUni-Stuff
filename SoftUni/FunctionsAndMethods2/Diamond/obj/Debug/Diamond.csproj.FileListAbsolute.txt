@@ -1,0 +1,5 @@
+D:\SoftUni\FunctionsAndMethods2\Diamond\bin\Debug\Diamond.exe.config
+D:\SoftUni\FunctionsAndMethods2\Diamond\bin\Debug\Diamond.exe
+D:\SoftUni\FunctionsAndMethods2\Diamond\bin\Debug\Diamond.pdb
+D:\SoftUni\FunctionsAndMethods2\Diamond\obj\Debug\Diamond.exe
+D:\SoftUni\FunctionsAndMethods2\Diamond\obj\Debug\Diamond.pdb
